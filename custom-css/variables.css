@@ -1,0 +1,30 @@
+:root {
+    --brand: #ff6f36;
+    --brand-hover: rgba(255, 108, 23, 0.71);
+    --brand-dark: #c13a00;
+
+    --beta: #c13a00;
+    --beta-hover: rgba(193, 58, 0, 0.71);
+
+    --nova: #ffb000;
+    --nova-dark: rgba(255, 176, 0, 0.71);
+    --nova-hover: rgba(255, 176, 0, 0.71);
+
+    --gamma: #2e2e2e;
+
+}
+
+/*:root {*/
+    /*--brand: #e6007e;*/
+    /*--brand-hover: #9c0051;*/
+    /*--brand-dark: #9c0051;*/
+
+    /*--beta: #009fe3;*/
+    /*--beta-hover: #0075ac;*/
+
+    /*--nova: #ffed00;*/
+    /*--nova-hover: #8e8000;*/
+
+    /*--gamma: #000000;*/
+
+/*}*/

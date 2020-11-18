@@ -1,0 +1,137 @@
+.bgimage {
+  width:100%;
+  height:60em;
+
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+ 
+  background-size:cover !important; 
+}
+.logo_estimate{
+	padding:1em 2em;
+}
+.newWidthCheck{padding-left:0px !Important; padding-right:0px !important;}
+td#newwidth {
+    width: 64%;
+}
+.col-lg-12.col-md-12 .showboxes:last-child {
+    border-bottom: 1px solid #ccc;
+}
+.col-lg-12.col-md-12 {
+    margin-bottom: 2em;
+}
+.summary-image-card {
+    padding: 0px 6px;
+}
+.bgimage h5 {
+  color:white;
+  text-shadow:2px 2px #333;
+}
+.card-text{
+  word-wrap: break-word !important;
+}
+.specailaddress{
+word-break: break-word;
+    background: #efeeeebf;
+     padding: 2em 0px;
+}
+.newaddress {
+    position: absolute;
+    right: 0;
+    bottom: 30px;
+}
+.top-content{
+	 
+    border-radius: 0;
+
+    font-size: 24px !important;
+    padding-top: 16px;
+    padding-bottom: 16px;
+	font-size: 22px !important;
+    font-weight: bold;
+    line-height: 1;
+}
+nav.navbar.navbar-expand-md.navbar-light.bg-light {
+min-height: 3.5em!important;
+    background-color: white;
+    opacity: 0.8;
+    text-align: center;
+	    border-bottom: 1px solid black;
+		    padding: 0px 11px 0px;
+}
+.specailaddress ul li{
+    
+    list-style: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+.specailaddress ul li:first-child{
+
+    font-size: 44px;
+
+}
+.showboxes {
+    text-align: right;
+    border-top: 1px solid #ccc;
+
+	font-size:18px;
+}
+.showboxes ul li {
+    padding: 6px 13px;
+	font-weight: bold;
+}
+.showboxes ul{
+	display: inline-flex;
+    list-style: none;
+}
+.showboxes .bigsize	 span.woocommerce-Price-amount.amount {
+	font-size:28px;
+}
+
+@media only screen and (max-width: 420px) {
+	.container-fluid {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+	.showboxes {
+    text-align: left;
+	}
+	
+	
+}
+@media only screen and (max-width: 480px) {
+	 table.table tr td {
+    font-size: 13px;
+    width: 12px !important;
+}
+.specailaddress ul li {
+      font-size: 20px;
+}
+.specailaddress ul li:first-child {
+    font-size: 32px;
+}
+.bgimage {
+
+    height: 32em;
+    background-position: unset !important;
+
+    background-size: contain !important;
+}
+.top-content {
+
+    padding: 13px 3px 2px 1px;
+
+    font-size: 18px !important;
+
+}
+.print_div_icon {
+    text-align: center;
+}
+.newCenterIN {
+    text-align: center;
+}
+.logo_estimate {
+  
+    width: 50%;
+}
+}

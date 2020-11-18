@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sale System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-12 06:27+0000\n"
+"PO-Revision-Date: 2017-08-07 09:41+0000\n"
+"Last-Translator: Ideer med mera Admin <support@ideermedmera.se>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+msgid "Sale System"
+msgstr ""
+
+#. Description of the plugin
+msgid "Idéer med mera säljsystem"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://ideermedmera.se"
+msgstr ""
+
+#. Author of the plugin
+msgid "Idéer Med Mera"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://ideermedmera.se"
+msgstr ""
+
+msgid "Översikt"
+msgstr ""

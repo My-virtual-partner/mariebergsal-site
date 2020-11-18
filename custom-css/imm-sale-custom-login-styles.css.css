@@ -1,0 +1,27 @@
+@import "variables.css";
+
+body.login {
+    background: url('../images/bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.login .button-primary {
+
+    background-color: var(--brand) !important;
+    color: #ffffff;
+}
+
+.login .button-primary:hover {
+    background-color: var(--brand) !important;
+}
+
+.login .button-primary:active {
+    background-color: var(--brand) !important;
+}
+
+a {
+    color: var(--beta) !important;
+}

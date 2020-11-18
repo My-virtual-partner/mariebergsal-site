@@ -1,0 +1,855 @@
+Vernr,Bokföringsdatum,Registreringsdatum,Konto,Benämning,Ks,Projnr,Verifikationstext,Transaktionsinfo,Debet,Kredit
+A160,31-05-2020,04-06-2020,1790,Övriga förutbetalda kostnader och upplupna intäkter,,,Periodisering av verifikation A303,,,"124,67"
+A160,31-05-2020,04-06-2020,5910,Annonsering,,,Periodisering av verifikation A303,,"124,67",
+A161,31-05-2020,04-06-2020,1790,Övriga förutbetalda kostnader och upplupna intäkter,,,Periodisering Ver A88,,,"1250,00"
+A161,31-05-2020,04-06-2020,6570,Bankkostnader,,,Periodisering Ver A88,,"1250,00",
+A162,31-05-2020,04-06-2020,1681,Avräkning Mariebergs Brasvärme,,,Länsförsäk. Företagarförsäkring,,,"1200,00"
+A162,31-05-2020,04-06-2020,6310,Företagsförsäkringar,,,Länsförsäk. Företagarförsäkring,,"1200,00",
+A163,05-05-2020,04-06-2020,1630,Avräkning för skatter och avgifter (skattekonto),,,Skattedeklaration ,,,"13731,00"
+A163,05-05-2020,04-06-2020,2941,Beräknade upplupna lagstadgade sociala avgifter,,,Skattedeklaration ,,"5573,00",
+A163,05-05-2020,04-06-2020,2710,Personalskatt,,,Skattedeklaration ,,"8158,00",
+A164,06-05-2020,04-06-2020,1630,Avräkning för skatter och avgifter (skattekonto),,,Skattedeklaration utb,,"13731,00",
+A164,06-05-2020,04-06-2020,1940,Bank,,,Skattedeklaration utb,,,"13731,00"
+A165,06-05-2020,04-06-2020,1630,Avräkning för skatter och avgifter (skattekonto),,,Skattedeklaration utb,,"195708,00",
+A165,06-05-2020,04-06-2020,1940,Bank,,,Skattedeklaration utb,,,"195708,00"
+A166,12-05-2020,04-06-2020,1940,Bank,,,Preliminärskatt,,,"10494,00"
+A166,12-05-2020,04-06-2020,2510,Skatteskulder,,,Preliminärskatt,,"10494,00",
+A167,25-05-2020,04-06-2020,2920,Upplupna semesterlöner,,,Sem löneskuld,,,"3807,00"
+A167,25-05-2020,04-06-2020,2921,Upplupna soc.avg semesterlön,,,Sem löneskuld,,,"1196,16"
+A167,25-05-2020,04-06-2020,7290,Förändring av semesterlöneskuld,,,Sem löneskuld,,"5003,16",
+A168,25-05-2020,04-06-2020,1940,Bank,,,Lön & soc avgifter,,,"29338,00"
+A168,25-05-2020,04-06-2020,2710,Personalskatt,,,Lön & soc avgifter,,,"9584,00"
+A168,25-05-2020,04-06-2020,2941,Beräknade upplupna lagstadgade sociala avgifter,,,Lön & soc avgifter,,,"7034,00"
+A168,25-05-2020,04-06-2020,3740,Öres- och kronutjämning,,,Lön & soc avgifter,,,"0,56"
+A168,25-05-2020,04-06-2020,7210,Löner,,,Lön & soc avgifter,,"38922,00",
+A168,25-05-2020,04-06-2020,7510,Lagstadgade sociala avgifter,,,Lön & soc avgifter,,"7034,56",
+A169,01-06-2020,08-06-2020,2641,Debiterad ingående moms,,,Utläggsrapport per tallving,Gasol,"59,80",
+A169,01-06-2020,08-06-2020,5460,Förbrukningsmaterial,,,Utläggsrapport per tallving,Gasol,"239,20",
+A169,01-06-2020,08-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,Gasol,,"299,00"
+A169,01-06-2020,08-06-2020,2641,Debiterad ingående moms,,,Utläggsrapport per tallving,,"175,20",
+A169,01-06-2020,08-06-2020,6100,Kontorsmateriel och trycksaker (gruppkonto),,,Utläggsrapport per tallving,,"700,80",
+A169,01-06-2020,08-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,,,"876,00"
+A169,01-06-2020,08-06-2020,1940,Bank,,,Utläggsrapport per tallving,,,"1644,00"
+A169,01-06-2020,08-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,,"1644,00",
+A169,01-06-2020,08-06-2020,6570,Bankkostnader,,,Utläggsrapport per tallving,,"450,00",
+A169,01-06-2020,08-06-2020,6570,Bankkostnader,,,Utläggsrapport per tallving,,"19,00",
+A169,01-06-2020,08-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,,,"450,00"
+A169,01-06-2020,08-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,,,"19,00"
+A170,01-06-2020,08-06-2020,1940,Bank,,,visa entercard Per,,,"118,00"
+A170,01-06-2020,08-06-2020,6230,Datakommunikation,,,visa entercard Per,,"79,20",
+A170,01-06-2020,08-06-2020,2641,Debiterad ingående moms,,,visa entercard Per,,"19,80",
+A170,01-06-2020,08-06-2020,6570,Bankkostnader,,,visa entercard Per,,"19,00",
+A171,15-05-2020,04-06-2020,1940,Bank,,,Kortinlösen serviceavgift,,,"1042,79"
+A171,15-05-2020,04-06-2020,6570,Bankkostnader,,,Kortinlösen serviceavgift,,"1042,79",
+A172,28-05-2020,08-06-2020,1940,Bank,,,Autogiro (POINT TRANS) ,,,"1384,00"
+A172,28-05-2020,08-06-2020,6570,Bankkostnader,,,Autogiro (POINT TRANS) ,,"1107,20",
+A172,28-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Autogiro (POINT TRANS) ,,"276,80",
+A173,31-05-2020,08-06-2020,1940,Bank,,,Babsförsäljning maj,,"31139,00",
+A173,31-05-2020,08-06-2020,3011,Försäljning tillverkade produkter 25% moms,,,Babsförsäljning maj,,,"24911,20"
+A173,31-05-2020,08-06-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Babsförsäljning maj,,,"6227,80"
+A174,31-05-2020,10-06-2020,1790,Övriga förutbetalda kostnader och upplupna intäkter,,,Uppbokning intäkter per sista maj,,"86260,00",
+A174,31-05-2020,10-06-2020,3011,Försäljning tillverkade produkter 25% moms,,,Uppbokning intäkter per sista maj,,,"86260,00"
+A175,31-05-2020,10-06-2020,1470,Pågående arbeten,,,Uppbokning pågående arbeten per sista maj,,,"108431,25"
+A175,31-05-2020,10-06-2020,4970,Förändring pågående arbeten ,,,Uppbokning pågående arbeten per sista maj,,"108431,25",
+A176,01-06-2020,10-06-2020,1790,Övriga förutbetalda kostnader och upplupna intäkter,,,Återbokat A174,,,"86260,00"
+A176,01-06-2020,10-06-2020,3011,Försäljning tillverkade produkter 25% moms,,,Återbokat A174,,"86260,00",
+A177,01-06-2020,23-06-2020,1681,Avräkning Mariebergs Brasvärme,,,Länsförsäk. Företagarförsäkring,,,"1200,00"
+A177,01-06-2020,23-06-2020,6310,Företagsförsäkringar,,,Länsförsäk. Företagarförsäkring,,"1200,00",
+A178,02-06-2020,23-06-2020,1630,Avräkning för skatter och avgifter (skattekonto),,,Skattedeklaration ,,,"16618,00"
+A178,02-06-2020,23-06-2020,2941,Beräknade upplupna lagstadgade sociala avgifter,,,Skattedeklaration ,,"7034,00",
+A178,02-06-2020,23-06-2020,2710,Personalskatt,,,Skattedeklaration ,,"9584,00",
+A179,08-06-2020,23-06-2020,1630,Avräkning för skatter och avgifter (skattekonto),,,Skattedeklaration utb,,"16618,00",
+A179,08-06-2020,23-06-2020,1940,Bank,,,Skattedeklaration utb,,,"16618,00"
+A180,10-06-2020,23-06-2020,1940,Bank,,,Preliminärskatt,,,"10494,00"
+A180,10-06-2020,23-06-2020,2510,Skatteskulder,,,Preliminärskatt,,"10494,00",
+A181,15-06-2020,23-06-2020,1940,Bank,,,Kortinlösen serviceavgift,,,"76,02"
+A181,15-06-2020,23-06-2020,6570,Bankkostnader,,,Kortinlösen serviceavgift,,"76,02",
+A182,30-06-2020,24-06-2020,2641,Debiterad ingående moms,,,Utläggsrapport per tallving,,"11,32",
+A182,30-06-2020,24-06-2020,5800,Resekostnader (gruppkonto),,,Utläggsrapport per tallving,,"188,68",
+A182,30-06-2020,24-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,,,"200,00"
+A182,30-06-2020,24-06-2020,2641,Debiterad ingående moms,,,Utläggsrapport per tallving,Terminal glasögon,"1820,00",
+A182,30-06-2020,24-06-2020,7620,Sjuk- och hälsovård,,,Utläggsrapport per tallving,Terminal glasögon,"7280,00",
+A182,30-06-2020,24-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,Terminal glasögon,,"9100,00"
+A182,30-06-2020,24-06-2020,2641,Debiterad ingående moms,,,Utläggsrapport per tallving,,"16,77",
+A182,30-06-2020,24-06-2020,5460,Förbrukningsmaterial,,,Utläggsrapport per tallving,,"67,08",
+A182,30-06-2020,24-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,,,"83,85"
+A182,30-06-2020,24-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,,"200,00",
+A182,30-06-2020,24-06-2020,1940,Bank,,,Utläggsrapport per tallving,,,"9403,00"
+A182,30-06-2020,24-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,,"9100,00",
+A182,30-06-2020,24-06-2020,1613,Per kort utlägg,,,Utläggsrapport per tallving,,"83,85",
+A182,30-06-2020,24-06-2020,6570,Bankkostnader,,,Utläggsrapport per tallving,,"19,00",
+A182,30-06-2020,24-06-2020,3740,Öres- och kronutjämning,,,Utläggsrapport per tallving,,"0,15",
+A183,30-06-2020,24-06-2020,1940,Bank,,,Visa entercard Per,,,"118,00"
+A183,30-06-2020,24-06-2020,6230,Datakommunikation,,,Visa entercard Per,,"79,20",
+A183,30-06-2020,24-06-2020,2641,Debiterad ingående moms,,,Visa entercard Per,,"19,80",
+A183,30-06-2020,24-06-2020,6570,Bankkostnader,,,Visa entercard Per,,"19,00",
+A184,30-06-2020,01-07-2020,1790,Övriga förutbetalda kostnader och upplupna intäkter,,,Periodisering av verifikation A303,,,"124,67"
+A184,30-06-2020,01-07-2020,5910,Annonsering,,,Periodisering av verifikation A303,,"124,67",
+A185,30-06-2020,01-07-2020,1790,Övriga förutbetalda kostnader och upplupna intäkter,,,Periodisering Ver A88,,,"1250,00"
+A185,30-06-2020,01-07-2020,6570,Bankkostnader,,,Periodisering Ver A88,,"1250,00",
+A186,25-06-2020,06-07-2020,1940,Bank,,,Lön & soc avgifter,,,"24755,00"
+A186,25-06-2020,06-07-2020,2710,Personalskatt,,,Lön & soc avgifter,,,"7476,00"
+A186,25-06-2020,06-07-2020,2941,Beräknade upplupna lagstadgade sociala avgifter,,,Lön & soc avgifter,,,"4932,00"
+A186,25-06-2020,06-07-2020,3740,Öres- och kronutjämning,,,Lön & soc avgifter,,,"0,25"
+A186,25-06-2020,06-07-2020,7210,Löner,,,Lön & soc avgifter,,"32231,00",
+A186,25-06-2020,06-07-2020,7510,Lagstadgade sociala avgifter,,,Lön & soc avgifter,,"4932,25",
+A187,25-06-2020,06-07-2020,2920,Upplupna semesterlöner,,,Sem löneskuld,,,"2538,00"
+A187,25-06-2020,06-07-2020,2921,Upplupna soc.avg semesterlön,,,Sem löneskuld,,,"797,44"
+A187,25-06-2020,06-07-2020,7290,Förändring av semesterlöneskuld,,,Sem löneskuld,,"3335,44",
+A188,30-06-2020,06-07-2020,1940,Bank,,,Babsförsäljning juni,,"1685,00",
+A188,30-06-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Babsförsäljning juni,,,"1348,00"
+A188,30-06-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Babsförsäljning juni,,,"337,00"
+A189,30-06-2020,06-07-2020,1940,Bank,,,Utlåningsränta,,,"2801,53"
+A189,30-06-2020,06-07-2020,8400,Räntekostnader (gruppkonto),,,Utlåningsränta,,"2801,53",
+A190,08-07-2020,08-07-2020,1630,Avräkning för skatter och avgifter (skattekonto),,,Skattedeklaration utb,,"12407,00",
+A190,08-07-2020,08-07-2020,1940,Bank,,,Skattedeklaration utb,,,"12407,00"
+A191,13-07-2020,08-07-2020,1630,Avräkning för skatter och avgifter (skattekonto),,,Skattedeklaration ,,,"12407,00"
+A191,13-07-2020,08-07-2020,2941,Beräknade upplupna lagstadgade sociala avgifter,,,Skattedeklaration ,,"4931,00",
+A191,13-07-2020,08-07-2020,2710,Personalskatt,,,Skattedeklaration ,,"7476,00",
+A192,13-07-2020,08-07-2020,1940,Bank,,,Preliminärskatt,,,"10494,00"
+A192,13-07-2020,08-07-2020,2510,Skatteskulder,,,Preliminärskatt,,"10494,00",
+B28,31-05-2020,04-06-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kundfaktura Mariebergs Brasvärme AB (320),,,"900603,28"
+B28,31-05-2020,04-06-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kundfaktura Mariebergs Brasvärme AB (320),,,"225150,82"
+B28,31-05-2020,04-06-2020,3740,Öres- och kronutjämning,,,Kundfaktura Mariebergs Brasvärme AB (320),,"0,10",
+B28,31-05-2020,04-06-2020,1510,Kundfordringar,,,Kundfaktura Mariebergs Brasvärme AB (320),,"1125754,00",
+B29,30-06-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kundfaktura Mariebergs Brasvärme AB (321),,,"328608,00"
+B29,30-06-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kundfaktura Mariebergs Brasvärme AB (321),,,"82152,00"
+B29,30-06-2020,06-07-2020,1510,Kundfordringar,,,Kundfaktura Mariebergs Brasvärme AB (321),,"410760,00",
+B30,30-06-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kundfaktura Mariebergs Brasvärme AB (322),,,"328608,00"
+B30,30-06-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kundfaktura Mariebergs Brasvärme AB (322),,,"82152,00"
+B30,30-06-2020,06-07-2020,1510,Kundfordringar,,,Kundfaktura Mariebergs Brasvärme AB (322),,"410760,00",
+B31,30-06-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kreditfaktura Mariebergs Brasvärme AB (323),,"328608,00",
+B31,30-06-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kreditfaktura Mariebergs Brasvärme AB (323),,"82152,00",
+B31,30-06-2020,06-07-2020,1510,Kundfordringar,,,Kreditfaktura Mariebergs Brasvärme AB (323),,,"410760,00"
+B32,06-07-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kreditfaktura Mariebergs Brasvärme AB (324),,"328608,00",
+B32,06-07-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kreditfaktura Mariebergs Brasvärme AB (324),,"82152,00",
+B32,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kreditfaktura Mariebergs Brasvärme AB (324),,,"410760,00"
+B33,06-07-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kundfaktura Mariebergs Brasvärme AB (325),,,"328608,00"
+B33,06-07-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kundfaktura Mariebergs Brasvärme AB (325),,,"82152,00"
+B33,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundfaktura Mariebergs Brasvärme AB (325),,"410760,00",
+B34,06-07-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kundfaktura Mariebergs Brasvärme AB (326),,,"328608,00"
+B34,06-07-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kundfaktura Mariebergs Brasvärme AB (326),,,"82152,00"
+B34,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundfaktura Mariebergs Brasvärme AB (326),,"410760,00",
+B35,30-06-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kreditfaktura Mariebergs Brasvärme AB (327),,"328608,00",
+B35,30-06-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kreditfaktura Mariebergs Brasvärme AB (327),,"82152,00",
+B35,30-06-2020,06-07-2020,1510,Kundfordringar,,,Kreditfaktura Mariebergs Brasvärme AB (327),,,"410760,00"
+B36,06-07-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kreditfaktura Mariebergs Brasvärme AB (328),,"328608,00",
+B36,06-07-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kreditfaktura Mariebergs Brasvärme AB (328),,"82152,00",
+B36,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kreditfaktura Mariebergs Brasvärme AB (328),,,"410760,00"
+B37,06-07-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kundfaktura Mariebergs Brasvärme AB (329),,,"328608,00"
+B37,06-07-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kundfaktura Mariebergs Brasvärme AB (329),,,"82152,00"
+B37,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundfaktura Mariebergs Brasvärme AB (329),,"410760,00",
+B38,06-07-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kundfaktura Mariebergs Brasvärme AB (330),,,"328608,00"
+B38,06-07-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kundfaktura Mariebergs Brasvärme AB (330),,,"82152,00"
+B38,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundfaktura Mariebergs Brasvärme AB (330),,"410760,00",
+B39,30-06-2020,06-07-2020,3011,Försäljning tillverkade produkter 25% moms,,,Kundfaktura Mariebergs Brasvärme AB (331),,,"180807,00"
+B39,30-06-2020,06-07-2020,2611,"Utgående moms på försäljning inom Sverige, 25 %",,,Kundfaktura Mariebergs Brasvärme AB (331),,,"45201,75"
+B39,30-06-2020,06-07-2020,3740,Öres- och kronutjämning,,,Kundfaktura Mariebergs Brasvärme AB (331),,,"0,25"
+B39,30-06-2020,06-07-2020,1510,Kundfordringar,,,Kundfaktura Mariebergs Brasvärme AB (331),,"226009,00",
+C31,22-05-2020,01-06-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (319),,"150000,00",
+C31,22-05-2020,01-06-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (319),,,"150000,00"
+C32,02-06-2020,04-06-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (319),,"186615,00",
+C32,02-06-2020,04-06-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (319),,,"186615,00"
+C33,23-06-2020,01-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (320),,"200000,00",
+C33,23-06-2020,01-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (320),,,"200000,00"
+C34,30-06-2020,01-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (320),,"200000,00",
+C34,30-06-2020,01-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (320),,,"200000,00"
+C35,06-07-2020,06-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (323),,,"410760,00"
+C35,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (323),,"410760,00",
+C36,06-07-2020,06-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (322),,"410760,00",
+C36,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (322),,,"410760,00"
+C37,06-07-2020,06-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (324),,,"410760,00"
+C37,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (324),,"410760,00",
+C38,06-07-2020,06-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (321),,"410760,00",
+C38,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (321),,,"410760,00"
+C39,06-07-2020,06-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (326),,"410760,00",
+C39,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (326),,,"410760,00"
+C40,06-07-2020,06-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (325),,"410760,00",
+C40,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (325),,,"410760,00"
+C41,06-07-2020,06-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (330),,"410760,00",
+C41,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (330),,,"410760,00"
+C42,06-07-2020,06-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (329),,"410760,00",
+C42,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (329),,,"410760,00"
+C43,06-07-2020,06-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (327),,,"410760,00"
+C43,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (327),,"410760,00",
+C44,06-07-2020,06-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (328),,,"410760,00"
+C44,06-07-2020,06-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (328),,"410760,00",
+C45,21-07-2020,22-07-2020,1940,Bank,,,Kundbet Mariebergs Brasvärme AB (331),,"226009,00",
+C45,21-07-2020,22-07-2020,1510,Kundfordringar,,,Kundbet Mariebergs Brasvärme AB (331),,,"226009,00"
+D605,03-05-2020,04-05-2020,2440,Leverantörsskulder,,,Levfakt MEAB i Uppsala AB (5717),80501,,"12420,00"
+D605,03-05-2020,04-05-2020,4020,Inköp montage,,,Levfakt MEAB i Uppsala AB (5717),,"11700,00",
+D605,03-05-2020,04-05-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt MEAB i Uppsala AB (5717),,,"3105,00"
+D605,03-05-2020,04-05-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt MEAB i Uppsala AB (5717),,"3105,00",
+D605,03-05-2020,04-05-2020,4019,Inköp UE omkostnader,,,Levfakt MEAB i Uppsala AB (5717),,"720,00",
+D608,04-05-2020,06-05-2020,2440,Leverantörsskulder,,,Levfakt UHAB Uppsala Hantverkare AB (5718),75684,,"28453,00"
+D608,04-05-2020,06-05-2020,4020,Inköp montage,,,Levfakt UHAB Uppsala Hantverkare AB (5718),,"24740,00",
+D608,04-05-2020,06-05-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt UHAB Uppsala Hantverkare AB (5718),,,"7113,25"
+D608,04-05-2020,06-05-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt UHAB Uppsala Hantverkare AB (5718),,"7113,25",
+D608,04-05-2020,06-05-2020,4019,Inköp UE omkostnader,,,Levfakt UHAB Uppsala Hantverkare AB (5718),,"3713,00",
+D613,02-05-2020,10-05-2020,2440,Leverantörsskulder,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5724),80501,,"2250,00"
+D613,02-05-2020,10-05-2020,2641,Debiterad ingående moms,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5724),,"450,00",
+D613,02-05-2020,10-05-2020,4605,Sotning/besiktning,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5724),,"1800,00",
+D625,05-05-2020,10-05-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5723),,,"146,00"
+D625,05-05-2020,10-05-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5723),,"29,25",
+D625,05-05-2020,10-05-2020,4022,Inköp ej order,,,Levfakt NIBE Aktiebolag (5723),,"116,75",
+D629,01-05-2020,11-05-2020,2440,Leverantörsskulder,,,Levfakt Water & Wellness Europe AB (5722),,,"3750,00"
+D629,01-05-2020,11-05-2020,2641,Debiterad ingående moms,,,Levfakt Water & Wellness Europe AB (5722),,"750,00",
+D629,01-05-2020,11-05-2020,7698,Inhyrd personal,,,Levfakt Water & Wellness Europe AB (5722),,"3000,00",
+D630,01-05-2020,11-05-2020,2440,Leverantörsskulder,,,Levfakt Water & Wellness Europe AB (5721),,,"22712,50"
+D630,01-05-2020,11-05-2020,2641,Debiterad ingående moms,,,Levfakt Water & Wellness Europe AB (5721),,"4542,50",
+D630,01-05-2020,11-05-2020,7698,Inhyrd personal,,,Levfakt Water & Wellness Europe AB (5721),,"18170,00",
+D631,01-05-2020,11-05-2020,2440,Leverantörsskulder,,,Levfakt Water & Wellness Europe AB (5720),,,"22702,50"
+D631,01-05-2020,11-05-2020,2641,Debiterad ingående moms,,,Levfakt Water & Wellness Europe AB (5720),,"4540,50",
+D631,01-05-2020,11-05-2020,7698,Inhyrd personal,,,Levfakt Water & Wellness Europe AB (5720),,"18162,00",
+D635,05-05-2020,20-05-2020,2440,Leverantörsskulder,,,Levfakt Café Bar Sverige AB (5739),,,"1513,00"
+D635,05-05-2020,20-05-2020,2641,Debiterad ingående moms,,,Levfakt Café Bar Sverige AB (5739),,"167,24",
+D635,05-05-2020,20-05-2020,7690,Övriga personalkostnader,,,Levfakt Café Bar Sverige AB (5739),,"1345,76",
+D636,13-05-2020,20-05-2020,2440,Leverantörsskulder,,,Levfakt Felger montering AB (5749),75171,,"6840,00"
+D636,13-05-2020,20-05-2020,4020,Inköp montage,,,Levfakt Felger montering AB (5749),,"6240,00",
+D636,13-05-2020,20-05-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt Felger montering AB (5749),,,"1710,00"
+D636,13-05-2020,20-05-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt Felger montering AB (5749),,"1710,00",
+D636,13-05-2020,20-05-2020,4019,Inköp UE omkostnader,,,Levfakt Felger montering AB (5749),,"600,00",
+D637,04-05-2020,20-05-2020,2440,Leverantörsskulder,,,Levfakt Tele2 Sverige Aktiebolag (5751),,,"868,00"
+D637,04-05-2020,20-05-2020,2641,Debiterad ingående moms,,,Levfakt Tele2 Sverige Aktiebolag (5751),,"173,50",
+D637,04-05-2020,20-05-2020,6230,Datakommunikation,,,Levfakt Tele2 Sverige Aktiebolag (5751),,"694,50",
+D638,10-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levfakt Fortnox Aktiebolag (5746),,,"303,00"
+D638,10-05-2020,25-05-2020,2641,Debiterad ingående moms,,,Levfakt Fortnox Aktiebolag (5746),,"60,68",
+D638,10-05-2020,25-05-2020,6530,Redovisningstjänster,,,Levfakt Fortnox Aktiebolag (5746),,"242,32",
+D639,01-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levfakt Länsförsäkringar Uppsala (5741),,,"308,00"
+D639,01-05-2020,25-05-2020,5612,Försäkring och skatt för personbilar,,,Levfakt Länsförsäkringar Uppsala (5741),,"308,00",
+D640,06-05-2020,25-05-2020,2440,Leverantörsskulder,,,"Levfakt DNB Bank ASA, filial Sverige (5747)",,,"3086,00"
+D640,06-05-2020,25-05-2020,2641,Debiterad ingående moms,,,"Levfakt DNB Bank ASA, filial Sverige (5747)",,"617,26",
+D640,06-05-2020,25-05-2020,5615,Leasing av personbilar,,,"Levfakt DNB Bank ASA, filial Sverige (5747)",,"2468,74",
+D641,12-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5758),,,"1955,00"
+D641,12-05-2020,25-05-2020,7410,Pensionsförsäkringspremier,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5758),,"1955,00",
+D641,12-05-2020,25-05-2020,7530,Särskild löneskatt,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5758),,"474,28",
+D641,12-05-2020,25-05-2020,2732,Avräkning särskild löneskatt,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5758),,,"474,28"
+D642,13-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5752),76122,,"2250,00"
+D642,13-05-2020,25-05-2020,2641,Debiterad ingående moms,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5752),,"450,00",
+D642,13-05-2020,25-05-2020,4605,Sotning/besiktning,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5752),,"1800,00",
+D643,05-05-2020,28-05-2020,2440,Leverantörsskulder,,,Levfakt Brantab AB (5726),,,"6927,00"
+D643,05-05-2020,28-05-2020,4601,Inköp övrig UE (plåt/parkett mm) ,,,Levfakt Brantab AB (5726),,"3840,00",
+D643,05-05-2020,28-05-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt Brantab AB (5726),,,"1731,75"
+D643,05-05-2020,28-05-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt Brantab AB (5726),,"1731,75",
+D643,05-05-2020,28-05-2020,4019,Inköp UE omkostnader,,,Levfakt Brantab AB (5726),,"3087,00",
+D649,06-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt Länsförsäkringar Grupplivförsäkringsaktiebolag (5737),,,"490,00"
+D649,06-05-2020,01-06-2020,7620,Sjuk- och hälsovård,,,Levfakt Länsförsäkringar Grupplivförsäkringsaktiebolag (5737),,"490,00",
+D650,04-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt OK-Q8 AB (5743),,,"703,00"
+D650,04-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt OK-Q8 AB (5743),,"140,52",
+D650,04-05-2020,01-06-2020,5611,Drivmedel för personbilar,,,Levfakt OK-Q8 AB (5743),,"562,48",
+D651,14-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5754),75171,,"3563,00"
+D651,14-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5754),,"712,50",
+D651,14-05-2020,01-06-2020,4605,Sotning/besiktning,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5754),,"2850,50",
+D652,19-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt Mariebergs Brasvärme i Uppsala AB (5759),,,"5426,00"
+D652,19-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt Mariebergs Brasvärme i Uppsala AB (5759),,"1085,10",
+D652,19-05-2020,01-06-2020,4022,Inköp ej order,,,Levfakt Mariebergs Brasvärme i Uppsala AB (5759),,"4340,90",
+D653,06-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5728),,,"244,00"
+D653,06-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5728),,"48,75",
+D653,06-05-2020,01-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5728),,"195,25",
+D654,06-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt Ventilation och sotningstjänst Åke Huss AB (5729),74244,,"2250,00"
+D654,06-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt Ventilation och sotningstjänst Åke Huss AB (5729),,"450,00",
+D654,06-05-2020,01-06-2020,4605,Sotning/besiktning,,,Levfakt Ventilation och sotningstjänst Åke Huss AB (5729),,"1800,00",
+D655,26-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt JE Kaminer AB (5771),68016,,"10325,00"
+D655,26-05-2020,01-06-2020,4020,Inköp montage,,,Levfakt JE Kaminer AB (5771),,"7800,00",
+D655,26-05-2020,01-06-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt JE Kaminer AB (5771),,,"2581,25"
+D655,26-05-2020,01-06-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt JE Kaminer AB (5771),,"2581,25",
+D655,26-05-2020,01-06-2020,4019,Inköp UE omkostnader,,,Levfakt JE Kaminer AB (5771),,"2525,00",
+D656,08-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5738),,,"2194,00"
+D656,08-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5738),,"438,90",
+D656,08-05-2020,01-06-2020,4022,Inköp ej order,,,Levfakt NIBE Aktiebolag (5738),,"1755,10",
+D657,11-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5740),81917,,"23563,00"
+D657,11-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5740),,"4712,70",
+D657,11-05-2020,01-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5740),,"18850,30",
+D658,12-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5744),,,"650,00"
+D658,12-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5744),,"130,00",
+D658,12-05-2020,01-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5744),,"520,00",
+D659,12-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5750),82346,,"31261,00"
+D659,12-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5750),,"6252,30",
+D659,12-05-2020,01-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5750),,"25008,70",
+D660,27-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt MEAB i Uppsala AB (5765),82346,,"7240,00"
+D660,27-05-2020,01-06-2020,4020,Inköp montage,,,Levfakt MEAB i Uppsala AB (5765),,"6240,00",
+D660,27-05-2020,01-06-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt MEAB i Uppsala AB (5765),,,"1810,00"
+D660,27-05-2020,01-06-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt MEAB i Uppsala AB (5765),,"1810,00",
+D660,27-05-2020,01-06-2020,4019,Inköp UE omkostnader,,,Levfakt MEAB i Uppsala AB (5765),,"1000,00",
+D661,14-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5748),,,"650,00"
+D661,14-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5748),,"130,00",
+D661,14-05-2020,01-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5748),,"520,00",
+D662,06-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levfakt NL Brasvärme Interiör AB (5725),,,"6210,00"
+D662,06-05-2020,01-06-2020,2641,Debiterad ingående moms,,,Levfakt NL Brasvärme Interiör AB (5725),,"1242,00",
+D662,06-05-2020,01-06-2020,4022,Inköp ej order,,,Levfakt NL Brasvärme Interiör AB (5725),,"4968,00",
+D663,26-05-2020,04-06-2020,2440,Leverantörsskulder,,,Levfakt Water & Wellness Europe AB (5767),,,"15000,00"
+D663,26-05-2020,04-06-2020,2641,Debiterad ingående moms,,,Levfakt Water & Wellness Europe AB (5767),,"3000,00",
+D663,26-05-2020,04-06-2020,7698,Inhyrd personal,,,Levfakt Water & Wellness Europe AB (5767),,"12000,00",
+D664,26-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt WEFIXIT SVENSKA AB (5768),,,"869,00"
+D664,26-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Levfakt WEFIXIT SVENSKA AB (5768),,"173,75",
+D664,26-05-2020,08-06-2020,6100,Kontorsmateriel och trycksaker (gruppkonto),,,Levfakt WEFIXIT SVENSKA AB (5768),,"695,25",
+D665,31-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt Mariebergs Brasvärme AB (5785),80695,,"1560,00"
+D665,31-05-2020,08-06-2020,4020,Inköp montage,,,Levfakt Mariebergs Brasvärme AB (5785),,"1560,00",
+D665,31-05-2020,08-06-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt Mariebergs Brasvärme AB (5785),,,"390,00"
+D665,31-05-2020,08-06-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt Mariebergs Brasvärme AB (5785),,"390,00",
+D666,13-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt Transportstyrelsen (5769),,,"88,00"
+D666,13-05-2020,08-06-2020,5612,Försäkring och skatt för personbilar,,,Levfakt Transportstyrelsen (5769),,"88,00",
+D667,14-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt Per Wikstrand Aktiebolag (5745),82346,,"2384,00"
+D667,14-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Levfakt Per Wikstrand Aktiebolag (5745),,"476,75",
+D667,14-05-2020,08-06-2020,4021,Inköp varor Sverige,,,Levfakt Per Wikstrand Aktiebolag (5745),,"1907,25",
+D668,18-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt Best Transport AB (5756),,,"1635,00"
+D668,18-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Levfakt Best Transport AB (5756),,"327,00",
+D668,18-05-2020,08-06-2020,5700,Frakter och transporter (gruppkonto),,,Levfakt Best Transport AB (5756),,"1308,00",
+D669,18-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5757),53658,,"33662,00"
+D669,18-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5757),,"6732,33",
+D669,18-05-2020,08-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5757),,"26929,67",
+D670,19-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5755),,,"406,00"
+D670,19-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5755),,"81,25",
+D670,19-05-2020,08-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5755),,"324,75",
+D671,26-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5766),,,"773,00"
+D671,26-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5766),,"154,70",
+D671,26-05-2020,08-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5766),,"618,30",
+D672,26-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5770),81917,,"10772,00"
+D672,26-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5770),,"2154,45",
+D672,26-05-2020,08-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5770),,"8617,55",
+D673,26-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt SCANDINAVISK SPISMILJÖ AB (5772),83754,,"18619,00"
+D673,26-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Levfakt SCANDINAVISK SPISMILJÖ AB (5772),,"3723,86",
+D673,26-05-2020,08-06-2020,4021,Inköp varor Sverige,,,Levfakt SCANDINAVISK SPISMILJÖ AB (5772),,"14895,14",
+D674,28-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt MultiQ Systems AB (5774),,,"2850,00"
+D674,28-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Levfakt MultiQ Systems AB (5774),,"570,00",
+D674,28-05-2020,08-06-2020,6540,IT-tjänster,,,Levfakt MultiQ Systems AB (5774),,"2280,00",
+D675,29-05-2020,08-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5775),83556,,"17727,00"
+D675,29-05-2020,08-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5775),,"3545,40",
+D675,29-05-2020,08-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5775),,"14181,60",
+D676,31-05-2020,09-06-2020,2440,Leverantörsskulder,,,Levfakt Asa Transporter Aktiebolag (5788),82346,,"1749,00"
+D676,31-05-2020,09-06-2020,2641,Debiterad ingående moms,,,Levfakt Asa Transporter Aktiebolag (5788),,"349,80",
+D676,31-05-2020,09-06-2020,5700,Frakter och transporter (gruppkonto),,,Levfakt Asa Transporter Aktiebolag (5788),,"1399,20",
+D677,15-05-2020,09-06-2020,2440,Leverantörsskulder,,,Levfakt Näldens Värmeindustri Aktiebolag (5753),,,"2544,00"
+D677,15-05-2020,09-06-2020,2641,Debiterad ingående moms,,,Levfakt Näldens Värmeindustri Aktiebolag (5753),,"508,71",
+D677,15-05-2020,09-06-2020,4021,Inköp varor Sverige,,,Levfakt Näldens Värmeindustri Aktiebolag (5753),,"2035,29",
+D678,31-05-2020,09-06-2020,2440,Leverantörsskulder,,,Levfakt Mariebergs Brasvärme AB (5786),,,"3589,00"
+D678,31-05-2020,09-06-2020,2641,Debiterad ingående moms,,,Levfakt Mariebergs Brasvärme AB (5786),,"717,80",
+D678,31-05-2020,09-06-2020,5912,Marknadsföring Solceller,,,Levfakt Mariebergs Brasvärme AB (5786),,"2871,20",
+D679,31-05-2020,09-06-2020,2440,Leverantörsskulder,,,Levfakt Mariebergs Brasvärme AB (5787),,,"34706,00"
+D679,31-05-2020,09-06-2020,2641,Debiterad ingående moms,,,Levfakt Mariebergs Brasvärme AB (5787),,"6941,25",
+D679,31-05-2020,09-06-2020,7699,OH Cost,,,Levfakt Mariebergs Brasvärme AB (5787),,"27764,75",
+D680,05-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levfakt Water & Wellness Europe AB (5790),,,"30534,38"
+D680,05-06-2020,11-06-2020,2641,Debiterad ingående moms,,,Levfakt Water & Wellness Europe AB (5790),,"6106,88",
+D680,05-06-2020,11-06-2020,7698,Inhyrd personal,,,Levfakt Water & Wellness Europe AB (5790),,"24427,50",
+D681,04-06-2020,15-06-2020,2440,Leverantörsskulder,,,Levfakt MEAB i Uppsala AB (5784),80558,,"11720,00"
+D681,04-06-2020,15-06-2020,4020,Inköp montage,,,Levfakt MEAB i Uppsala AB (5784),,"10960,00",
+D681,04-06-2020,15-06-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt MEAB i Uppsala AB (5784),,,"2930,00"
+D681,04-06-2020,15-06-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt MEAB i Uppsala AB (5784),,"2930,00",
+D681,04-06-2020,15-06-2020,4019,Inköp UE omkostnader,,,Levfakt MEAB i Uppsala AB (5784),,"760,00",
+D682,01-06-2020,15-06-2020,2440,Leverantörsskulder,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5777),82346,,"3563,00"
+D682,01-06-2020,15-06-2020,2641,Debiterad ingående moms,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5777),,"712,50",
+D682,01-06-2020,15-06-2020,4605,Sotning/besiktning,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5777),,"2850,50",
+D683,17-06-2020,22-06-2020,2440,Leverantörsskulder,,,Levkreditfakt Nordpeis (5809),114890,"14793,00",
+D683,17-06-2020,22-06-2020,4051,Inköp varor utanför EU,,,Levkreditfakt Nordpeis (5809),,,"14793,00"
+D683,17-06-2020,22-06-2020,2616,Utgående moms import av varor utanför EU,,,Levkreditfakt Nordpeis (5809),,"3698,25",
+D683,17-06-2020,22-06-2020,2646,Ingående moms import ej EU 25%,,,Levkreditfakt Nordpeis (5809),,,"3698,25"
+D684,03-06-2020,22-06-2020,2440,Leverantörsskulder,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5780),80558,,"2250,00"
+D684,03-06-2020,22-06-2020,2641,Debiterad ingående moms,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5780),,"450,00",
+D684,03-06-2020,22-06-2020,4605,Sotning/besiktning,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5780),,"1800,00",
+D685,03-06-2020,22-06-2020,2440,Leverantörsskulder,,,Levfakt Aurum Juridik AB (5781),,,"625,00"
+D685,03-06-2020,22-06-2020,2641,Debiterad ingående moms,,,Levfakt Aurum Juridik AB (5781),,"125,00",
+D685,03-06-2020,22-06-2020,6530,Redovisningstjänster,,,Levfakt Aurum Juridik AB (5781),,"500,00",
+D686,01-06-2020,22-06-2020,2440,Leverantörsskulder,,,Levfakt Ecta AB (5795),,,"1770,00"
+D686,01-06-2020,22-06-2020,2641,Debiterad ingående moms,,,Levfakt Ecta AB (5795),,"353,93",
+D686,01-06-2020,22-06-2020,4022,Inköp ej order,,,Levfakt Ecta AB (5795),,"1416,07",
+D687,01-06-2020,22-06-2020,2440,Leverantörsskulder,,,Levfakt Ecta AB (5794),,,"68,00"
+D687,01-06-2020,22-06-2020,2641,Debiterad ingående moms,,,Levfakt Ecta AB (5794),,"13,69",
+D687,01-06-2020,22-06-2020,4022,Inköp ej order,,,Levfakt Ecta AB (5794),,"54,31",
+D688,04-06-2020,22-06-2020,2440,Leverantörsskulder,,,Levfakt Tele2 Sverige Aktiebolag (5798),,,"868,00"
+D688,04-06-2020,22-06-2020,2641,Debiterad ingående moms,,,Levfakt Tele2 Sverige Aktiebolag (5798),,"173,50",
+D688,04-06-2020,22-06-2020,6230,Datakommunikation,,,Levfakt Tele2 Sverige Aktiebolag (5798),,"694,50",
+D689,21-06-2020,25-06-2020,2440,Leverantörsskulder,,,Levfakt JE Kaminer AB (5815),82582,,"8160,00"
+D689,21-06-2020,25-06-2020,4020,Inköp montage,,,Levfakt JE Kaminer AB (5815),,"7800,00",
+D689,21-06-2020,25-06-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt JE Kaminer AB (5815),,,"2040,00"
+D689,21-06-2020,25-06-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt JE Kaminer AB (5815),,"2040,00",
+D689,21-06-2020,25-06-2020,4019,Inköp UE omkostnader,,,Levfakt JE Kaminer AB (5815),,"360,00",
+D690,02-06-2020,25-06-2020,2440,Leverantörsskulder,,,Levfakt Ecta AB (5778),,,"1721,00"
+D690,02-06-2020,25-06-2020,2641,Debiterad ingående moms,,,Levfakt Ecta AB (5778),,"344,25",
+D690,02-06-2020,25-06-2020,4022,Inköp ej order,,,Levfakt Ecta AB (5778),,"1376,75",
+D691,02-06-2020,25-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5782),84521,,"15562,00"
+D691,02-06-2020,25-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5782),,"3112,45",
+D691,02-06-2020,25-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5782),,"12449,55",
+D692,02-06-2020,25-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5783),82582,,"19967,00"
+D692,02-06-2020,25-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5783),,"3993,50",
+D692,02-06-2020,25-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5783),,"15973,50",
+D693,06-06-2020,25-06-2020,2440,Leverantörsskulder,,,Levfakt Länsförsäkringar Grupplivförsäkringsaktiebolag (5793),,,"490,00"
+D693,06-06-2020,25-06-2020,7620,Sjuk- och hälsovård,,,Levfakt Länsförsäkringar Grupplivförsäkringsaktiebolag (5793),,"490,00",
+D694,08-06-2020,25-06-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5797),85477,,"28091,00"
+D694,08-06-2020,25-06-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5797),,"5618,20",
+D694,08-06-2020,25-06-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5797),,"22472,80",
+D695,03-06-2020,25-06-2020,2440,Leverantörsskulder,,,Levfakt Ikano Bank AB (publ) (5779),,,"901,00"
+D695,03-06-2020,25-06-2020,2641,Debiterad ingående moms,,,Levfakt Ikano Bank AB (publ) (5779),,"180,25",
+D695,03-06-2020,25-06-2020,5090,Övriga lokalkostnader,,,Levfakt Ikano Bank AB (publ) (5779),,"720,75",
+D696,04-06-2020,29-06-2020,2440,Leverantörsskulder,,,Levfakt KB Sekanten (5789),,,"75236,00"
+D696,04-06-2020,29-06-2020,2641,Debiterad ingående moms,,,Levfakt KB Sekanten (5789),,"15047,20",
+D696,04-06-2020,29-06-2020,1790,Övriga förutbetalda kostnader och upplupna intäkter,,,Levfakt KB Sekanten (5789),,"60188,80",
+D697,10-06-2020,29-06-2020,2440,Leverantörsskulder,,,Levfakt Fortnox Aktiebolag (5801),,,"314,00"
+D697,10-06-2020,29-06-2020,2641,Debiterad ingående moms,,,Levfakt Fortnox Aktiebolag (5801),,"62,73",
+D697,10-06-2020,29-06-2020,6530,Redovisningstjänster,,,Levfakt Fortnox Aktiebolag (5801),,"251,27",
+D698,03-06-2020,29-06-2020,2440,Leverantörsskulder,,,"Levfakt DNB Bank ASA, filial Sverige (5791)",,,"3086,00"
+D698,03-06-2020,29-06-2020,2641,Debiterad ingående moms,,,"Levfakt DNB Bank ASA, filial Sverige (5791)",,"617,26",
+D698,03-06-2020,29-06-2020,5615,Leasing av personbilar,,,"Levfakt DNB Bank ASA, filial Sverige (5791)",,"2468,74",
+D699,01-06-2020,29-06-2020,2440,Leverantörsskulder,,,Levfakt OK-Q8 AB (5796),,,"844,00"
+D699,01-06-2020,29-06-2020,2641,Debiterad ingående moms,,,Levfakt OK-Q8 AB (5796),,"168,74",
+D699,01-06-2020,29-06-2020,5611,Drivmedel för personbilar,,,Levfakt OK-Q8 AB (5796),,"675,26",
+D700,12-06-2020,29-06-2020,2440,Leverantörsskulder,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5811),,,"1955,00"
+D700,12-06-2020,29-06-2020,7410,Pensionsförsäkringspremier,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5811),,"1955,00",
+D700,12-06-2020,29-06-2020,7530,Särskild löneskatt,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5811),,"474,28",
+D700,12-06-2020,29-06-2020,2732,Avräkning särskild löneskatt,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5811),,,"474,28"
+D701,24-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levfakt JE Kaminer AB (5819),87017,,"3480,00"
+D701,24-06-2020,01-07-2020,4020,Inköp montage,,,Levfakt JE Kaminer AB (5819),,"3120,00",
+D701,24-06-2020,01-07-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt JE Kaminer AB (5819),,,"870,00"
+D701,24-06-2020,01-07-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt JE Kaminer AB (5819),,"870,00",
+D701,24-06-2020,01-07-2020,4019,Inköp UE omkostnader,,,Levfakt JE Kaminer AB (5819),,"360,00",
+D702,01-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levfakt DLL Gruppen AB (5773),75684,,"9966,00"
+D702,01-06-2020,01-07-2020,4601,Inköp övrig UE (plåt/parkett mm) ,,,Levfakt DLL Gruppen AB (5773),,"9966,00",
+D702,01-06-2020,01-07-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt DLL Gruppen AB (5773),,,"2491,50"
+D702,01-06-2020,01-07-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt DLL Gruppen AB (5773),,"2491,50",
+D703,09-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levfakt GAS-SERVICE i Stockholm AB (5799),69856,,"11293,00"
+D703,09-06-2020,01-07-2020,2641,Debiterad ingående moms,,,Levfakt GAS-SERVICE i Stockholm AB (5799),,"2258,60",
+D703,09-06-2020,01-07-2020,4602,Inköp övrig UE (plåt/parkett mm) ej omvänd byggmoms,,,Levfakt GAS-SERVICE i Stockholm AB (5799),,"9034,40",
+D704,12-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levfakt Vauni AB (5814),84097,,"12558,00"
+D704,12-06-2020,01-07-2020,2641,Debiterad ingående moms,,,Levfakt Vauni AB (5814),,"2511,60",
+D704,12-06-2020,01-07-2020,4021,Inköp varor Sverige,,,Levfakt Vauni AB (5814),,"10046,40",
+D705,24-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5825),85477,,"2850,00"
+D705,24-06-2020,01-07-2020,2641,Debiterad ingående moms,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5825),,"570,00",
+D705,24-06-2020,01-07-2020,4605,Sotning/besiktning,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5825),,"2280,00",
+D706,24-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5826),82582,,"2250,00"
+D706,24-06-2020,01-07-2020,2641,Debiterad ingående moms,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5826),,"450,00",
+D706,24-06-2020,01-07-2020,4605,Sotning/besiktning,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5826),,"1800,00",
+D707,15-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5800),83556,,"3443,00"
+D707,15-06-2020,01-07-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5800),,"688,60",
+D707,15-06-2020,01-07-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5800),,"2754,40",
+D708,30-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levfakt MEAB i Uppsala AB (5827),84734,,"10370,00"
+D708,30-06-2020,01-07-2020,4020,Inköp montage,,,Levfakt MEAB i Uppsala AB (5827),,"8970,00",
+D708,30-06-2020,01-07-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt MEAB i Uppsala AB (5827),,,"2592,50"
+D708,30-06-2020,01-07-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt MEAB i Uppsala AB (5827),,"2592,50",
+D708,30-06-2020,01-07-2020,4019,Inköp UE omkostnader,,,Levfakt MEAB i Uppsala AB (5827),,"1400,00",
+D709,30-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Mariebergs Brasvärme AB (5828),,,"3534,00"
+D709,30-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Mariebergs Brasvärme AB (5828),,"706,70",
+D709,30-06-2020,09-07-2020,5912,Marknadsföring Solceller,,,Levfakt Mariebergs Brasvärme AB (5828),,"2827,30",
+D710,30-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Mariebergs Brasvärme AB (5829),,,"3596,00"
+D710,30-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Mariebergs Brasvärme AB (5829),,"719,25",
+D710,30-06-2020,09-07-2020,7699,OH Cost,,,Levfakt Mariebergs Brasvärme AB (5829),,"2876,75",
+D711,16-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5802),87296,,"18132,00"
+D711,16-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5802),,"3626,50",
+D711,16-06-2020,09-07-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5802),,"14505,50",
+D712,16-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5803),85020,,"20846,00"
+D712,16-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5803),,"4169,20",
+D712,16-06-2020,09-07-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5803),,"16676,80",
+D713,16-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5810),84734,,"38351,00"
+D713,16-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5810),,"7670,25",
+D713,16-06-2020,09-07-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5810),,"30680,75",
+D714,16-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5812),87533,,"17873,00"
+D714,16-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5812),,"3574,70",
+D714,16-06-2020,09-07-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5812),,"14298,30",
+D715,26-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5820),84734,,"2450,00"
+D715,26-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5820),,"490,00",
+D715,26-06-2020,09-07-2020,4605,Sotning/besiktning,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5820),,"1960,00",
+D716,17-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5806),81050,,"4875,00"
+D716,17-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5806),,"975,00",
+D716,17-06-2020,09-07-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5806),,"3900,00",
+D717,18-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5807),81050,,"2000,00"
+D717,18-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5807),,"400,00",
+D717,18-06-2020,09-07-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5807),,"1600,00",
+D718,12-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Transportstyrelsen (5818),,,"38,00"
+D718,12-06-2020,09-07-2020,5612,Försäkring och skatt för personbilar,,,Levfakt Transportstyrelsen (5818),,"38,00",
+D719,15-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt NL Brasvärme Interiör AB (5804),,,"484,00"
+D719,15-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt NL Brasvärme Interiör AB (5804),,"96,80",
+D719,15-06-2020,09-07-2020,4022,Inköp ej order,,,Levfakt NL Brasvärme Interiör AB (5804),,"387,20",
+D720,25-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt BIG BAG AB (5817),85477,,"1864,00"
+D720,25-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt BIG BAG AB (5817),,"372,80",
+D720,25-06-2020,09-07-2020,4041,Byggavfall,,,Levfakt BIG BAG AB (5817),,"1491,20",
+D721,11-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Per Wikstrand Aktiebolag (5792),85020,,"818,00"
+D721,11-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Per Wikstrand Aktiebolag (5792),,"163,58",
+D721,11-06-2020,09-07-2020,4021,Inköp varor Sverige,,,Levfakt Per Wikstrand Aktiebolag (5792),,"654,42",
+D722,29-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Best Transport AB (5824),83754,,"2286,00"
+D722,29-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Best Transport AB (5824),,"457,25",
+D722,29-06-2020,09-07-2020,5700,Frakter och transporter (gruppkonto),,,Levfakt Best Transport AB (5824),,"1828,75",
+D723,15-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt SCANDINAVISK SPISMILJÖ AB (5813),44171,,"15318,00"
+D723,15-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt SCANDINAVISK SPISMILJÖ AB (5813),,"3063,65",
+D723,15-06-2020,09-07-2020,4021,Inköp varor Sverige,,,Levfakt SCANDINAVISK SPISMILJÖ AB (5813),,"12254,35",
+D724,16-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Näldens Värmeindustri Aktiebolag (5805),76755,,"955,00"
+D724,16-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Näldens Värmeindustri Aktiebolag (5805),,"190,99",
+D724,16-06-2020,09-07-2020,4021,Inköp varor Sverige,,,Levfakt Näldens Värmeindustri Aktiebolag (5805),,"764,01",
+D725,16-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Per Wikstrand Aktiebolag (5808),,,"3234,00"
+D725,16-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Per Wikstrand Aktiebolag (5808),,"646,75",
+D725,16-06-2020,09-07-2020,4022,Inköp ej order,,,Levfakt Per Wikstrand Aktiebolag (5808),,"2587,25",
+D726,23-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Per Wikstrand Aktiebolag (5816),88925,,"418,00"
+D726,23-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Per Wikstrand Aktiebolag (5816),,"83,60",
+D726,23-06-2020,09-07-2020,4021,Inköp varor Sverige,,,Levfakt Per Wikstrand Aktiebolag (5816),,"334,40",
+D727,28-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Water & Wellness Europe AB (5823),,,"5625,00"
+D727,28-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Water & Wellness Europe AB (5823),,"1125,00",
+D727,28-06-2020,09-07-2020,7698,Inhyrd personal,,,Levfakt Water & Wellness Europe AB (5823),,"4500,00",
+D728,29-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Water & Wellness Europe AB (5821),,,"11215,00"
+D728,29-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Water & Wellness Europe AB (5821),,"2243,00",
+D728,29-06-2020,09-07-2020,7698,Inhyrd personal,,,Levfakt Water & Wellness Europe AB (5821),,"8972,00",
+D729,29-06-2020,09-07-2020,2440,Leverantörsskulder,,,Levfakt Water & Wellness Europe AB (5822),"82332, 84536",,"23276,25"
+D729,29-06-2020,09-07-2020,2641,Debiterad ingående moms,,,Levfakt Water & Wellness Europe AB (5822),,"4655,25",
+D729,29-06-2020,09-07-2020,7698,Inhyrd personal,,,Levfakt Water & Wellness Europe AB (5822),,"18621,00",
+D730,30-06-2020,13-07-2020,2440,Leverantörsskulder,,,Levfakt JE Kaminer AB (5837),89831,,"13680,00"
+D730,30-06-2020,13-07-2020,4020,Inköp montage,,,Levfakt JE Kaminer AB (5837),,"12480,00",
+D730,30-06-2020,13-07-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt JE Kaminer AB (5837),,,"3420,00"
+D730,30-06-2020,13-07-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt JE Kaminer AB (5837),,"3420,00",
+D730,30-06-2020,13-07-2020,4019,Inköp UE omkostnader,,,Levfakt JE Kaminer AB (5837),,"1200,00",
+D731,30-06-2020,13-07-2020,2440,Leverantörsskulder,,,Levfakt Per Wikstrand Aktiebolag (5840),89765,,"443,00"
+D731,30-06-2020,13-07-2020,2641,Debiterad ingående moms,,,Levfakt Per Wikstrand Aktiebolag (5840),,"88,60",
+D731,30-06-2020,13-07-2020,4021,Inköp varor Sverige,,,Levfakt Per Wikstrand Aktiebolag (5840),,"354,40",
+D732,29-06-2020,13-07-2020,2440,Leverantörsskulder,,,Levfakt Danderyds Neon AB (5836),,,"24600,00"
+D732,29-06-2020,13-07-2020,2641,Debiterad ingående moms,,,Levfakt Danderyds Neon AB (5836),,"4920,00",
+D732,29-06-2020,13-07-2020,5900,Produktion reklam,,,Levfakt Danderyds Neon AB (5836),,"19680,00",
+D733,01-06-2020,20-07-2020,2440,Leverantörsskulder,,,Levfakt Verifone Stockholm AB (5703),,,"623,00"
+D733,01-06-2020,20-07-2020,2641,Debiterad ingående moms,,,Levfakt Verifone Stockholm AB (5703),,"124,50",
+D733,01-06-2020,20-07-2020,6570,Bankkostnader,,,Levfakt Verifone Stockholm AB (5703),,"498,50",
+D734,01-06-2020,20-07-2020,2440,Leverantörsskulder,,,Levfakt Verifone Stockholm AB (5776),,,"623,00"
+D734,01-06-2020,20-07-2020,2641,Debiterad ingående moms,,,Levfakt Verifone Stockholm AB (5776),,"124,50",
+D734,01-06-2020,20-07-2020,6570,Bankkostnader,,,Levfakt Verifone Stockholm AB (5776),,"498,50",
+D735,02-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5842),84521,,"2850,00"
+D735,02-07-2020,20-07-2020,2641,Debiterad ingående moms,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5842),,"570,00",
+D735,02-07-2020,20-07-2020,4605,Sotning/besiktning,,,Levfakt Sotningstjänst & Kamingruppen STHLM AB (5842),,"2280,00",
+D736,04-07-2020,24-07-2020,2440,Leverantörsskulder,,,Levfakt Tele2 Sverige Aktiebolag (5839),,,"868,00"
+D736,04-07-2020,24-07-2020,2641,Debiterad ingående moms,,,Levfakt Tele2 Sverige Aktiebolag (5839),,"173,50",
+D736,04-07-2020,24-07-2020,6230,Datakommunikation,,,Levfakt Tele2 Sverige Aktiebolag (5839),,"694,50",
+D737,10-07-2020,24-07-2020,2440,Leverantörsskulder,,,Levfakt Fortnox Aktiebolag (5846),,,"1028,00"
+D737,10-07-2020,24-07-2020,2641,Debiterad ingående moms,,,Levfakt Fortnox Aktiebolag (5846),,"205,58",
+D737,10-07-2020,24-07-2020,6530,Redovisningstjänster,,,Levfakt Fortnox Aktiebolag (5846),,"822,42",
+D738,01-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt OK-Q8 AB (5831),,,"1836,00"
+D738,01-07-2020,27-07-2020,2641,Debiterad ingående moms,,,Levfakt OK-Q8 AB (5831),,"367,21",
+D738,01-07-2020,27-07-2020,5611,Drivmedel för personbilar,,,Levfakt OK-Q8 AB (5831),,"1468,79",
+D739,01-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt Teknikföretagens Branschgrupper i Sverige AB (5832),,,"3750,00"
+D739,01-07-2020,27-07-2020,2641,Debiterad ingående moms,,,Levfakt Teknikföretagens Branschgrupper i Sverige AB (5832),,"750,00",
+D739,01-07-2020,27-07-2020,6990,Övriga externa kostnader,,,Levfakt Teknikföretagens Branschgrupper i Sverige AB (5832),,"3000,00",
+D740,03-07-2020,27-07-2020,2440,Leverantörsskulder,,,"Levfakt DNB Bank ASA, filial Sverige (5833)",,,"3086,00"
+D740,03-07-2020,27-07-2020,2641,Debiterad ingående moms,,,"Levfakt DNB Bank ASA, filial Sverige (5833)",,"617,27",
+D740,03-07-2020,27-07-2020,5615,Leasing av personbilar,,,"Levfakt DNB Bank ASA, filial Sverige (5833)",,"2468,73",
+D741,01-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt Allt i Tak Entreprenad AB (5841),85477,,"2500,00"
+D741,01-07-2020,27-07-2020,4601,Inköp övrig UE (plåt/parkett mm) ,,,Levfakt Allt i Tak Entreprenad AB (5841),,"2500,00",
+D741,01-07-2020,27-07-2020,2617,"Utgående moms omvänd skattskyldighet varor och tjänster i Sverige, 25 %",,,Levfakt Allt i Tak Entreprenad AB (5841),,,"625,00"
+D741,01-07-2020,27-07-2020,2647,Ingående moms omvänd skattskyldighet varor och tjänster i Sverige,,,Levfakt Allt i Tak Entreprenad AB (5841),,"625,00",
+D742,12-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5848),,,"1955,00"
+D742,12-07-2020,27-07-2020,7410,Pensionsförsäkringspremier,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5848),,"1955,00",
+D742,12-07-2020,27-07-2020,7530,Särskild löneskatt,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5848),,"474,28",
+D742,12-07-2020,27-07-2020,2732,Avräkning särskild löneskatt,,,Levfakt LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5848),,,"474,28"
+D743,03-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt ID06 AB (5834),,,"625,00"
+D743,03-07-2020,27-07-2020,2641,Debiterad ingående moms,,,Levfakt ID06 AB (5834),,"125,00",
+D743,03-07-2020,27-07-2020,7690,Övriga personalkostnader,,,Levfakt ID06 AB (5834),,"500,00",
+D744,06-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt Länsförsäkringar Grupplivförsäkringsaktiebolag (5835),,,"490,00"
+D744,06-07-2020,27-07-2020,7620,Sjuk- och hälsovård,,,Levfakt Länsförsäkringar Grupplivförsäkringsaktiebolag (5835),,"490,00",
+D745,07-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5838),87798,,"30622,00"
+D745,07-07-2020,27-07-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5838),,"6124,50",
+D745,07-07-2020,27-07-2020,4021,Inköp varor Sverige,,,Levfakt NIBE Aktiebolag (5838),,"24497,50",
+D746,13-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt airmove AB (5844),90640,,"1125,00"
+D746,13-07-2020,27-07-2020,2641,Debiterad ingående moms,,,Levfakt airmove AB (5844),,"225,00",
+D746,13-07-2020,27-07-2020,4021,Inköp varor Sverige,,,Levfakt airmove AB (5844),,"900,00",
+D747,10-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt NL Brasvärme Interiör AB (5845),,,"843,00"
+D747,10-07-2020,27-07-2020,2641,Debiterad ingående moms,,,Levfakt NL Brasvärme Interiör AB (5845),,"168,68",
+D747,10-07-2020,27-07-2020,4022,Inköp ej order,,,Levfakt NL Brasvärme Interiör AB (5845),,"674,32",
+D748,17-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt Teliasonera Sverige Aktiebolag (5847),,,"94,00"
+D748,17-07-2020,27-07-2020,2641,Debiterad ingående moms,,,Levfakt Teliasonera Sverige Aktiebolag (5847),,"18,75",
+D748,17-07-2020,27-07-2020,6210,Telekommunikation,,,Levfakt Teliasonera Sverige Aktiebolag (5847),,"75,25",
+D749,02-07-2020,27-07-2020,2440,Leverantörsskulder,,,Levfakt NIBE Aktiebolag (5843),,,"162,00"
+D749,02-07-2020,27-07-2020,2641,Debiterad ingående moms,,,Levfakt NIBE Aktiebolag (5843),,"32,50",
+D749,02-07-2020,27-07-2020,4022,Inköp ej order,,,Levfakt NIBE Aktiebolag (5843),,"129,50",
+E613,04-05-2020,04-05-2020,1940,Bank,,,Levbet Per Wikstrand Aktiebolag (5648),,,"1029,00"
+E613,04-05-2020,04-05-2020,2440,Leverantörsskulder,,,Levbet Per Wikstrand Aktiebolag (5648),,"1029,00",
+E614,04-05-2020,04-05-2020,1940,Bank,,,Levbet PER WIKSTRAND AKTIEBOLAG (5658),,,"1076,00"
+E614,04-05-2020,04-05-2020,2440,Leverantörsskulder,,,Levbet PER WIKSTRAND AKTIEBOLAG (5658),,"1076,00",
+E615,04-05-2020,04-05-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5689),,,"29626,00"
+E615,04-05-2020,04-05-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5689),,"29626,00",
+E616,04-05-2020,04-05-2020,1940,Bank,,,Levbet Länsförsäkringar Grupplivförsäkringsaktiebolag (5694),,,"490,00"
+E616,04-05-2020,04-05-2020,2440,Leverantörsskulder,,,Levbet Länsförsäkringar Grupplivförsäkringsaktiebolag (5694),,"490,00",
+E617,04-05-2020,04-05-2020,1940,Bank,,,"Levbet DNB Bank ASA, filial Sverige (5695)",,,"3086,00"
+E617,04-05-2020,04-05-2020,2440,Leverantörsskulder,,,"Levbet DNB Bank ASA, filial Sverige (5695)",,"3086,00",
+E618,04-05-2020,04-05-2020,1940,Bank,,,Levbet LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5701),,,"1955,00"
+E618,04-05-2020,04-05-2020,2440,Leverantörsskulder,,,Levbet LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5701),,"1955,00",
+E619,08-05-2020,11-05-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5686),,,"19753,00"
+E619,08-05-2020,11-05-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5686),,"19753,00",
+E620,08-05-2020,11-05-2020,1940,Bank,,,Levbet Nordpeis (5687),,,"26637,00"
+E620,08-05-2020,11-05-2020,2440,Leverantörsskulder,,,Levbet Nordpeis (5687),,"26637,00",
+E621,08-05-2020,11-05-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5696),,,"8855,00"
+E621,08-05-2020,11-05-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5696),,"8855,00",
+E622,08-05-2020,11-05-2020,1940,Bank,,,Levbet MEAB i Uppsala AB (5707),,,"9760,00"
+E622,08-05-2020,11-05-2020,2440,Leverantörsskulder,,,Levbet MEAB i Uppsala AB (5707),,"9760,00",
+E623,08-05-2020,11-05-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5708),,,"286888,00"
+E623,08-05-2020,11-05-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5708),,"286888,00",
+E624,08-05-2020,11-05-2020,1940,Bank,,,Levbet UHAB Uppsala Hantverkare AB (5718),,,"28453,00"
+E624,08-05-2020,11-05-2020,2440,Leverantörsskulder,,,Levbet UHAB Uppsala Hantverkare AB (5718),,"28453,00",
+E625,12-05-2020,14-05-2020,1940,Bank,,,Levbet Water & Wellness Europe AB (5722),,,"3750,00"
+E625,12-05-2020,14-05-2020,2440,Leverantörsskulder,,,Levbet Water & Wellness Europe AB (5722),,"3750,00",
+E626,12-05-2020,14-05-2020,1940,Bank,,,Levbet Water & Wellness Europe AB (5720),,,"22702,50"
+E626,12-05-2020,14-05-2020,2440,Leverantörsskulder,,,Levbet Water & Wellness Europe AB (5720),,"22702,50",
+E627,12-05-2020,14-05-2020,1940,Bank,,,Levbet Water & Wellness Europe AB (5721),,,"22712,50"
+E627,12-05-2020,14-05-2020,2440,Leverantörsskulder,,,Levbet Water & Wellness Europe AB (5721),,"22712,50",
+E628,15-05-2020,18-05-2020,1940,Bank,,,Levbet NÄLDENS VÄRMEINDUSTRI AKTIEBOLAG (5678),,,"7665,00"
+E628,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet NÄLDENS VÄRMEINDUSTRI AKTIEBOLAG (5678),,"7665,00",
+E629,15-05-2020,18-05-2020,1940,Bank,,,Levbet NÄLDENS VÄRMEINDUSTRI AKTIEBOLAG (5679),,,"566,00"
+E629,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet NÄLDENS VÄRMEINDUSTRI AKTIEBOLAG (5679),,"566,00",
+E630,15-05-2020,18-05-2020,1940,Bank,,,Levbet PER WIKSTRAND AKTIEBOLAG (5680),,,"3261,00"
+E630,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet PER WIKSTRAND AKTIEBOLAG (5680),,"3261,00",
+E631,15-05-2020,18-05-2020,1940,Bank,,,Levbet SCANDINAVISK SPISMILJÖ AB (5681),,,"82117,00"
+E631,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet SCANDINAVISK SPISMILJÖ AB (5681),,"82117,00",
+E632,15-05-2020,18-05-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5698),,,"455,00"
+E632,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5698),,"455,00",
+E633,15-05-2020,18-05-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5704),,,"275,00"
+E633,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5704),,"275,00",
+E634,15-05-2020,18-05-2020,1940,Bank,,,Levbet Transportstyrelsen (5711),,,"82,00"
+E634,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet Transportstyrelsen (5711),,"82,00",
+E635,15-05-2020,18-05-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5715),,,"24771,00"
+E635,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5715),,"24771,00",
+E636,15-05-2020,18-05-2020,1940,Bank,,,Levbet MEAB i Uppsala AB (5717),,,"12420,00"
+E636,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet MEAB i Uppsala AB (5717),,"12420,00",
+E637,15-05-2020,18-05-2020,1940,Bank,,,Levbet SCANDINAVISK SPISMILJÖ AB (5731),,,"45021,00"
+E637,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet SCANDINAVISK SPISMILJÖ AB (5731),,"45021,00",
+E638,15-05-2020,18-05-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5735),,,"5070,00"
+E638,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5735),,"5070,00",
+E639,15-05-2020,18-05-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5736),,,"12254,00"
+E639,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5736),,"12254,00",
+E640,15-05-2020,18-05-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5742),,,"10396,00"
+E640,15-05-2020,18-05-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5742),,"10396,00",
+E641,22-05-2020,25-05-2020,1940,Bank,,,Levbet NÄLDENS VÄRMEINDUSTRI AKTIEBOLAG (5688),,,"18825,00"
+E641,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet NÄLDENS VÄRMEINDUSTRI AKTIEBOLAG (5688),,"18825,00",
+E642,22-05-2020,25-05-2020,1940,Bank,,,Levbet Exodraft A/S Danmark - Sverige Filial (5706),,,"14614,50"
+E642,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet Exodraft A/S Danmark - Sverige Filial (5706),,"14614,50",
+E643,22-05-2020,25-05-2020,1940,Bank,,,Levbet Nordpeis (5709),,,"1340,00"
+E643,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet Nordpeis (5709),,"1340,00",
+E644,22-05-2020,25-05-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5716),,,"16046,00"
+E644,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5716),,"16046,00",
+E645,22-05-2020,25-05-2020,1940,Bank,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5724),,,"2250,00"
+E645,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5724),,"2250,00",
+E646,22-05-2020,25-05-2020,1940,Bank,,,Levbet Ekströms Glasmästeri Aktiebolag (5727),,,"3073,00"
+E646,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet Ekströms Glasmästeri Aktiebolag (5727),,"3073,00",
+E647,22-05-2020,25-05-2020,1940,Bank,,,Levbet SCANDINAVISK SPISMILJÖ AB (5732),,,"6221,00"
+E647,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet SCANDINAVISK SPISMILJÖ AB (5732),,"6221,00",
+E648,22-05-2020,25-05-2020,1940,Bank,,,Levbet SCANDINAVISK SPISMILJÖ AB (5734),,,"13266,00"
+E648,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet SCANDINAVISK SPISMILJÖ AB (5734),,"13266,00",
+E649,22-05-2020,25-05-2020,1940,Bank,,,Levbet Café Bar Sverige AB (5739),,,"1513,00"
+E649,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet Café Bar Sverige AB (5739),,"1513,00",
+E650,22-05-2020,25-05-2020,1940,Bank,,,Levbet Felger montering AB (5749),,,"6840,00"
+E650,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet Felger montering AB (5749),,"6840,00",
+E651,22-05-2020,25-05-2020,1940,Bank,,,Levbet Tele2 Sverige Aktiebolag (5751),,,"868,00"
+E651,22-05-2020,25-05-2020,2440,Leverantörsskulder,,,Levbet Tele2 Sverige Aktiebolag (5751),,"868,00",
+E652,29-05-2020,01-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5710),,,"14885,00"
+E652,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5710),,"14885,00",
+E653,29-05-2020,01-06-2020,1940,Bank,,,Levbet DLL Gruppen AB (5712),,,"18173,00"
+E653,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet DLL Gruppen AB (5712),,"18173,00",
+E654,29-05-2020,01-06-2020,1940,Bank,,,Levbet BIG BAG AB (5714),,,"1864,00"
+E654,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet BIG BAG AB (5714),,"1864,00",
+E655,29-05-2020,01-06-2020,1940,Bank,,,Levbet Nordpeis (5719),,,"27215,00"
+E655,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet Nordpeis (5719),,"27215,00",
+E656,29-05-2020,01-06-2020,1940,Bank,,,Levbet Brantab AB (5726),,,"6927,00"
+E656,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet Brantab AB (5726),,"6927,00",
+E657,29-05-2020,01-06-2020,1940,Bank,,,Levbet SCANDINAVISK SPISMILJÖ AB (5730),,,"12568,00"
+E657,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet SCANDINAVISK SPISMILJÖ AB (5730),,"12568,00",
+E658,29-05-2020,01-06-2020,1940,Bank,,,Levbet Länsförsäkringar Uppsala (5741),,,"308,00"
+E658,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet Länsförsäkringar Uppsala (5741),,"308,00",
+E659,29-05-2020,01-06-2020,1940,Bank,,,Levbet Fortnox Aktiebolag (5746),,,"303,00"
+E659,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet Fortnox Aktiebolag (5746),,"303,00",
+E660,29-05-2020,01-06-2020,1940,Bank,,,"Levbet DNB Bank ASA, filial Sverige (5747)",,,"3086,00"
+E660,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,"Levbet DNB Bank ASA, filial Sverige (5747)",,"3086,00",
+E661,29-05-2020,01-06-2020,1940,Bank,,,Levbet LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5758),,,"1955,00"
+E661,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5758),,"1955,00",
+E662,29-05-2020,01-06-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5760),,,"126875,00"
+E662,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5760),,"126875,00",
+E663,29-05-2020,01-06-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5761),,,"2213,00"
+E663,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5761),,"2213,00",
+E664,29-05-2020,01-06-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5762),,,"3233,00"
+E664,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5762),,"3233,00",
+E665,29-05-2020,01-06-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5763),,,"1650,00"
+E665,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5763),,"1650,00",
+E666,29-05-2020,01-06-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5764),,,"584,00"
+E666,29-05-2020,01-06-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5764),,"584,00",
+E667,02-06-2020,04-06-2020,1940,Bank,,,Levbet NÄLDENS VÄRMEINDUSTRI AKTIEBOLAG (5699),,,"2735,00"
+E667,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet NÄLDENS VÄRMEINDUSTRI AKTIEBOLAG (5699),,"2735,00",
+E668,02-06-2020,04-06-2020,1940,Bank,,,Levbet Per Wikstrand Aktiebolag (5705),,,"10722,00"
+E668,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet Per Wikstrand Aktiebolag (5705),,"10722,00",
+E669,02-06-2020,04-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5723),,,"146,00"
+E669,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5723),,"146,00",
+E670,02-06-2020,04-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5728),,,"244,00"
+E670,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5728),,"244,00",
+E671,02-06-2020,04-06-2020,1940,Bank,,,Levbet Ventilation och sotningstjänst Åke Huss AB (5729),,,"2250,00"
+E671,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet Ventilation och sotningstjänst Åke Huss AB (5729),,"2250,00",
+E672,02-06-2020,04-06-2020,1940,Bank,,,Levbet Länsförsäkringar Grupplivförsäkringsaktiebolag (5737),,,"490,00"
+E672,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet Länsförsäkringar Grupplivförsäkringsaktiebolag (5737),,"490,00",
+E673,02-06-2020,04-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5738),,,"2194,00"
+E673,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5738),,"2194,00",
+E674,02-06-2020,04-06-2020,1940,Bank,,,Levbet OK-Q8 AB (5743),,,"703,00"
+E674,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet OK-Q8 AB (5743),,"703,00",
+E675,02-06-2020,04-06-2020,1940,Bank,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5752),,,"2250,00"
+E675,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5752),,"2250,00",
+E676,02-06-2020,04-06-2020,1940,Bank,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5754),,,"3563,00"
+E676,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5754),,"3563,00",
+E677,02-06-2020,04-06-2020,1940,Bank,,,Levbet Mariebergs Brasvärme i Uppsala AB (5759),,,"5426,00"
+E677,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme i Uppsala AB (5759),,"5426,00",
+E678,02-06-2020,04-06-2020,1940,Bank,,,Levbet JE Kaminer AB (5771),,,"10325,00"
+E678,02-06-2020,04-06-2020,2440,Leverantörsskulder,,,Levbet JE Kaminer AB (5771),,"10325,00",
+E679,09-06-2020,11-06-2020,1940,Bank,,,Levbet Per Wikstrand Aktiebolag (5713),,,"1124,00"
+E679,09-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet Per Wikstrand Aktiebolag (5713),,"1124,00",
+E680,09-06-2020,11-06-2020,1940,Bank,,,Levbet NL Brasvärme Interiör AB (5725),,,"6210,00"
+E680,09-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet NL Brasvärme Interiör AB (5725),,"6210,00",
+E681,09-06-2020,11-06-2020,1940,Bank,,,Levbet SCANDINAVISK SPISMILJÖ AB (5733),,,"12568,00"
+E681,09-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet SCANDINAVISK SPISMILJÖ AB (5733),,"12568,00",
+E682,09-06-2020,11-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5740),,,"23563,00"
+E682,09-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5740),,"23563,00",
+E683,09-06-2020,11-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5744),,,"650,00"
+E683,09-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5744),,"650,00",
+E684,09-06-2020,11-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5748),,,"650,00"
+E684,09-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5748),,"650,00",
+E685,09-06-2020,11-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5750),,,"31261,00"
+E685,09-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5750),,"31261,00",
+E686,09-06-2020,11-06-2020,1940,Bank,,,Levbet MEAB i Uppsala AB (5765),,,"7240,00"
+E686,09-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet MEAB i Uppsala AB (5765),,"7240,00",
+E687,09-06-2020,11-06-2020,1940,Bank,,,Levbet WEFIXIT SVENSKA AB (5768),,,"869,00"
+E687,09-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet WEFIXIT SVENSKA AB (5768),,"869,00",
+E688,09-06-2020,11-06-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5785),,,"1560,00"
+E688,09-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5785),,"1560,00",
+E689,05-06-2020,11-06-2020,1940,Bank,,,Levbet Water & Wellness Europe AB (5767),,,"15000,00"
+E689,05-06-2020,11-06-2020,2440,Leverantörsskulder,,,Levbet Water & Wellness Europe AB (5767),,"15000,00",
+E690,12-06-2020,12-06-2020,1940,Bank,,,Levbet Water & Wellness Europe AB (5790),,,"30534,38"
+E690,12-06-2020,12-06-2020,2440,Leverantörsskulder,,,Levbet Water & Wellness Europe AB (5790),,"30534,38",
+E691,16-06-2020,17-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5755),,,"406,00"
+E691,16-06-2020,17-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5755),,"406,00",
+E692,16-06-2020,17-06-2020,1940,Bank,,,Levbet Best Transport AB (5756),,,"1635,00"
+E692,16-06-2020,17-06-2020,2440,Leverantörsskulder,,,Levbet Best Transport AB (5756),,"1635,00",
+E693,16-06-2020,17-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5757),,,"33662,00"
+E693,16-06-2020,17-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5757),,"33662,00",
+E694,16-06-2020,17-06-2020,1940,Bank,,,Levbet Transportstyrelsen (5769),,,"88,00"
+E694,16-06-2020,17-06-2020,2440,Leverantörsskulder,,,Levbet Transportstyrelsen (5769),,"88,00",
+E695,16-06-2020,17-06-2020,1940,Bank,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5777),,,"3563,00"
+E695,16-06-2020,17-06-2020,2440,Leverantörsskulder,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5777),,"3563,00",
+E696,16-06-2020,17-06-2020,1940,Bank,,,Levbet MEAB i Uppsala AB (5784),,,"11720,00"
+E696,16-06-2020,17-06-2020,2440,Leverantörsskulder,,,Levbet MEAB i Uppsala AB (5784),,"11720,00",
+E697,16-06-2020,17-06-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5786),,,"3589,00"
+E697,16-06-2020,17-06-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5786),,"3589,00",
+E698,16-06-2020,17-06-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5787),,,"34706,00"
+E698,16-06-2020,17-06-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5787),,"34706,00",
+E699,16-06-2020,17-06-2020,1940,Bank,,,Levbet Asa Transporter Aktiebolag (5788),,,"1749,00"
+E699,16-06-2020,17-06-2020,2440,Leverantörsskulder,,,Levbet Asa Transporter Aktiebolag (5788),,"1749,00",
+E700,23-06-2020,23-06-2020,1940,Bank,,,Levbet Per Wikstrand Aktiebolag (5745),,,"2384,00"
+E700,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet Per Wikstrand Aktiebolag (5745),,"2384,00",
+E701,23-06-2020,23-06-2020,1940,Bank,,,Levbet Näldens Värmeindustri Aktiebolag (5753),,,"2544,00"
+E701,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet Näldens Värmeindustri Aktiebolag (5753),,"2544,00",
+E702,23-06-2020,23-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5766),,,"773,00"
+E702,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5766),,"773,00",
+E703,23-06-2020,23-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5770),,,"10772,00"
+E703,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5770),,"10772,00",
+E704,23-06-2020,23-06-2020,1940,Bank,,,Levbet MultiQ Systems AB (5774),,,"2850,00"
+E704,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet MultiQ Systems AB (5774),,"2850,00",
+E705,23-06-2020,23-06-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5775),,,"17727,00"
+E705,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5775),,"17727,00",
+E706,23-06-2020,23-06-2020,1940,Bank,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5780),,,"2250,00"
+E706,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5780),,"2250,00",
+E707,23-06-2020,23-06-2020,1940,Bank,,,Levbet Aurum Juridik AB (5781),,,"625,00"
+E707,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet Aurum Juridik AB (5781),,"625,00",
+E708,23-06-2020,23-06-2020,1940,Bank,,,Levbet Ecta AB (5794),,,"68,00"
+E708,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet Ecta AB (5794),,"68,00",
+E709,23-06-2020,23-06-2020,1940,Bank,,,Levbet Ecta AB (5795),,,"1770,00"
+E709,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet Ecta AB (5795),,"1770,00",
+E710,23-06-2020,23-06-2020,1940,Bank,,,Levbet Tele2 Sverige Aktiebolag (5798),,,"868,00"
+E710,23-06-2020,23-06-2020,2440,Leverantörsskulder,,,Levbet Tele2 Sverige Aktiebolag (5798),,"868,00",
+E711,30-06-2020,01-07-2020,1940,Bank,,,Levbet Ikano Bank AB (publ) (5779),,,"901,00"
+E711,30-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levbet Ikano Bank AB (publ) (5779),,"901,00",
+E712,30-06-2020,01-07-2020,1940,Bank,,,Levbet KB Sekanten (5789),,,"75236,00"
+E712,30-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levbet KB Sekanten (5789),,"75236,00",
+E713,30-06-2020,01-07-2020,1940,Bank,,,"Levbet DNB Bank ASA, filial Sverige (5791)",,,"3086,00"
+E713,30-06-2020,01-07-2020,2440,Leverantörsskulder,,,"Levbet DNB Bank ASA, filial Sverige (5791)",,"3086,00",
+E714,30-06-2020,01-07-2020,1940,Bank,,,Levbet OK-Q8 AB (5796),,,"844,00"
+E714,30-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levbet OK-Q8 AB (5796),,"844,00",
+E715,30-06-2020,01-07-2020,1940,Bank,,,Levbet Fortnox Aktiebolag (5801),,,"314,00"
+E715,30-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levbet Fortnox Aktiebolag (5801),,"314,00",
+E716,30-06-2020,01-07-2020,1940,Bank,,,Levbet LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5811),,,"1955,00"
+E716,30-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levbet LÄNSFÖRSÄKRINGAR LIV FÖRSÄKRINGSAB (5811),,"1955,00",
+E717,30-06-2020,01-07-2020,1940,Bank,,,Levbet JE Kaminer AB (5815),,,"8160,00"
+E717,30-06-2020,01-07-2020,2440,Leverantörsskulder,,,Levbet JE Kaminer AB (5815),,"8160,00",
+E718,03-07-2020,20-07-2020,1940,Bank,,,Levbet SCANDINAVISK SPISMILJÖ AB (5772),,,"18619,00"
+E718,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet SCANDINAVISK SPISMILJÖ AB (5772),,"18619,00",
+E719,03-07-2020,20-07-2020,1940,Bank,,,Levbet DLL Gruppen AB (5773),,,"9966,00"
+E719,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet DLL Gruppen AB (5773),,"9966,00",
+E720,03-07-2020,20-07-2020,1940,Bank,,,Levbet Ecta AB (5778),,,"1721,00"
+E720,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet Ecta AB (5778),,"1721,00",
+E721,03-07-2020,20-07-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5782),,,"15562,00"
+E721,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5782),,"15562,00",
+E722,03-07-2020,20-07-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5783),,,"19967,00"
+E722,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5783),,"19967,00",
+E723,03-07-2020,20-07-2020,1940,Bank,,,Levbet Länsförsäkringar Grupplivförsäkringsaktiebolag (5793),,,"490,00"
+E723,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet Länsförsäkringar Grupplivförsäkringsaktiebolag (5793),,"490,00",
+E724,03-07-2020,20-07-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5797),,,"28091,00"
+E724,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5797),,"28091,00",
+E725,03-07-2020,20-07-2020,1940,Bank,,,Levbet GAS-SERVICE i Stockholm AB (5799),,,"11293,00"
+E725,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet GAS-SERVICE i Stockholm AB (5799),,"11293,00",
+E726,03-07-2020,20-07-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5800),,,"3443,00"
+E726,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5800),,"3443,00",
+E727,03-07-2020,20-07-2020,1940,Bank,,,Levbet Vauni AB (5814),,,"12558,00"
+E727,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet Vauni AB (5814),,"12558,00",
+E728,03-07-2020,20-07-2020,1940,Bank,,,Levbet JE Kaminer AB (5819),,,"3480,00"
+E728,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet JE Kaminer AB (5819),,"3480,00",
+E729,03-07-2020,20-07-2020,1940,Bank,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5825),,,"2850,00"
+E729,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5825),,"2850,00",
+E730,03-07-2020,20-07-2020,1940,Bank,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5826),,,"2250,00"
+E730,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5826),,"2250,00",
+E731,03-07-2020,20-07-2020,1940,Bank,,,Levbet MEAB i Uppsala AB (5827),,,"10370,00"
+E731,03-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet MEAB i Uppsala AB (5827),,"10370,00",
+E732,14-07-2020,20-07-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5802),,,"18132,00"
+E732,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5802),,"18132,00",
+E733,14-07-2020,20-07-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5803),,,"20846,00"
+E733,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5803),,"20846,00",
+E734,14-07-2020,20-07-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5806),,,"4875,00"
+E734,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5806),,"4875,00",
+E735,14-07-2020,20-07-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5807),,,"2000,00"
+E735,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5807),,"2000,00",
+E736,14-07-2020,20-07-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5810),,,"38351,00"
+E736,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5810),,"38351,00",
+E737,14-07-2020,20-07-2020,1940,Bank,,,Levbet NIBE Aktiebolag (5812),,,"17873,00"
+E737,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet NIBE Aktiebolag (5812),,"17873,00",
+E738,14-07-2020,20-07-2020,1940,Bank,,,Levbet Transportstyrelsen (5818),,,"38,00"
+E738,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet Transportstyrelsen (5818),,"38,00",
+E739,14-07-2020,20-07-2020,1940,Bank,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5820),,,"2450,00"
+E739,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5820),,"2450,00",
+E740,14-07-2020,20-07-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5828),,,"3534,00"
+E740,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5828),,"3534,00",
+E741,14-07-2020,20-07-2020,1940,Bank,,,Levbet Mariebergs Brasvärme AB (5829),,,"3596,00"
+E741,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet Mariebergs Brasvärme AB (5829),,"3596,00",
+E742,14-07-2020,20-07-2020,1940,Bank,,,Levbet Danderyds Neon AB (5836),,,"24600,00"
+E742,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet Danderyds Neon AB (5836),,"24600,00",
+E743,14-07-2020,20-07-2020,1940,Bank,,,Levbet JE Kaminer AB (5837),,,"13680,00"
+E743,14-07-2020,20-07-2020,2440,Leverantörsskulder,,,Levbet JE Kaminer AB (5837),,"13680,00",
+E744,10-07-2020,21-07-2020,1940,Bank,,,Levbet Water & Wellness Europe AB (5823),,,"5625,00"
+E744,10-07-2020,21-07-2020,2440,Leverantörsskulder,,,Levbet Water & Wellness Europe AB (5823),,"5625,00",
+E745,10-07-2020,21-07-2020,1940,Bank,,,Levbet Water & Wellness Europe AB (5821),,,"11215,00"
+E745,10-07-2020,21-07-2020,2440,Leverantörsskulder,,,Levbet Water & Wellness Europe AB (5821),,"11215,00",
+E746,10-07-2020,21-07-2020,1940,Bank,,,Levbet Water & Wellness Europe AB (5822),,,"23276,25"
+E746,10-07-2020,21-07-2020,2440,Leverantörsskulder,,,Levbet Water & Wellness Europe AB (5822),,"23276,25",
+E747,21-07-2020,22-07-2020,1940,Bank,,,Levbet Per Wikstrand Aktiebolag (5792),,,"818,00"
+E747,21-07-2020,22-07-2020,2440,Leverantörsskulder,,,Levbet Per Wikstrand Aktiebolag (5792),,"818,00",
+E748,21-07-2020,22-07-2020,1940,Bank,,,Levbet NL Brasvärme Interiör AB (5804),,,"484,00"
+E748,21-07-2020,22-07-2020,2440,Leverantörsskulder,,,Levbet NL Brasvärme Interiör AB (5804),,"484,00",
+E749,21-07-2020,22-07-2020,1940,Bank,,,Levbet BIG BAG AB (5817),,,"1864,00"
+E749,21-07-2020,22-07-2020,2440,Leverantörsskulder,,,Levbet BIG BAG AB (5817),,"1864,00",
+E750,21-07-2020,22-07-2020,1940,Bank,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5842),,,"2850,00"
+E750,21-07-2020,22-07-2020,2440,Leverantörsskulder,,,Levbet Sotningstjänst & Kamingruppen STHLM AB (5842),,"2850,00",
+G9,31-05-2020,04-06-2020,1229,Ackumulerade avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 27",,"586,00"
+G9,31-05-2020,04-06-2020,7832,Avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 27","586,00",
+G9,31-05-2020,04-06-2020,1229,Ackumulerade avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 28",,"200,00"
+G9,31-05-2020,04-06-2020,7832,Avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 28","200,00",
+G9,31-05-2020,04-06-2020,1249,Ackumulerade avskrivningar på bilar och andra transportmedel,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 29",,"504,00"
+G9,31-05-2020,04-06-2020,7834,Avskrivningar på bilar och andra transportmedel,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 29","504,00",
+G9,31-05-2020,04-06-2020,1229,Ackumulerade avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 30",,"120,00"
+G9,31-05-2020,04-06-2020,7832,Avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 30","120,00",
+G9,31-05-2020,04-06-2020,1229,Ackumulerade avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 31",,"125,00"
+G9,31-05-2020,04-06-2020,7832,Avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 31","125,00",
+G9,31-05-2020,04-06-2020,1229,Ackumulerade avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 32",,"417,00"
+G9,31-05-2020,04-06-2020,7832,Avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-05-31,"Avskrivning 2020-05-01 - 2020-05-31, tillgång 32","417,00",
+G10,30-06-2020,25-06-2020,1229,Ackumulerade avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-06-30,"Avskrivning 2020-06-01 - 2020-06-30, tillgång 28",,"200,00"
+G10,30-06-2020,25-06-2020,7832,Avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-06-30,"Avskrivning 2020-06-01 - 2020-06-30, tillgång 28","200,00",
+G10,30-06-2020,25-06-2020,1249,Ackumulerade avskrivningar på bilar och andra transportmedel,,,Avskrivningar t.o.m. 2020-06-30,"Avskrivning 2020-06-01 - 2020-06-30, tillgång 29",,"504,00"
+G10,30-06-2020,25-06-2020,7834,Avskrivningar på bilar och andra transportmedel,,,Avskrivningar t.o.m. 2020-06-30,"Avskrivning 2020-06-01 - 2020-06-30, tillgång 29","504,00",
+G10,30-06-2020,25-06-2020,1229,Ackumulerade avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-06-30,"Avskrivning 2020-06-01 - 2020-06-30, tillgång 30",,"120,00"
+G10,30-06-2020,25-06-2020,7832,Avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-06-30,"Avskrivning 2020-06-01 - 2020-06-30, tillgång 30","120,00",
+G10,30-06-2020,25-06-2020,1229,Ackumulerade avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-06-30,"Avskrivning 2020-06-01 - 2020-06-30, tillgång 31",,"125,00"
+G10,30-06-2020,25-06-2020,7832,Avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-06-30,"Avskrivning 2020-06-01 - 2020-06-30, tillgång 31","125,00",
+G10,30-06-2020,25-06-2020,1229,Ackumulerade avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-06-30,"Avskrivning 2020-06-01 - 2020-06-30, tillgång 32",,"417,00"
+G10,30-06-2020,25-06-2020,7832,Avskrivningar på inventarier och verktyg,,,Avskrivningar t.o.m. 2020-06-30,"Avskrivning 2020-06-01 - 2020-06-30, tillgång 32","417,00",
+H23,31-05-2020,04-06-2020,1790,Övriga förutbetalda kostnader och upplupna intäkter,,,Periodisering av leverantörsfaktura 5630,,,"20062,93"
+H23,31-05-2020,04-06-2020,5010,Lokalhyra,,,Periodisering av leverantörsfaktura 5630,,"20062,93",
+H24,30-06-2020,01-07-2020,1790,Övriga förutbetalda kostnader och upplupna intäkter,,,Periodisering av leverantörsfaktura 5630,,,"20062,94"
+H24,30-06-2020,01-07-2020,5010,Lokalhyra,,,Periodisering av leverantörsfaktura 5630,,"20062,93",
+H24,30-06-2020,01-07-2020,3740,Öres- och kronutjämning,,,Periodisering av leverantörsfaktura 5630,,"0,01",

@@ -1,0 +1,118 @@
+
+.order-list-heading {
+    color: #000000 !important;
+    margin-top: 2em;
+    font-weight: 600;
+}
+
+.order-list-row {
+    color: #979a9b !important;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    border-bottom: 1px solid #979a9b !important;
+    line-height: 2;
+}
+
+.log-list {
+    max-height: 250px;
+    overflow-y: scroll;
+    padding-left: 10px !important;
+}
+
+.log-list li {
+    border-bottom: 1px solid #ededed;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+
+.sortable:hover {
+    cursor: hand;
+}
+
+
+.table-accept {
+    color: green;
+    font-weight: 600;
+}
+
+.table-wait {
+    color: orange;
+    font-weight: 600;
+}
+
+.list-spaced li{
+    padding-bottom: 5px;
+}
+
+
+/*------------------------------------*\
+           RESPONSIVE DESIGN
+\*------------------------------------*/
+
+@media screen and (min-width: 1921px) {
+
+}
+
+@media screen and (max-width: 1920px) {
+
+}
+
+@media screen and (max-width: 1680px) {
+
+}
+
+@media screen and (min-width: 1024px) {
+
+}
+
+@media screen and (max-width: 1370px) {
+
+}
+
+@media screen and (max-width: 1280px) {
+
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and (min-width: 991px) {
+
+}
+
+@media screen and (max-width: 960px) {
+
+}
+
+@media screen and (max-width: 800px) {
+
+}
+
+@media screen and (max-width: 770px) {
+
+}
+
+@media screen and (max-width: 740px) {
+
+}
+
+@media screen and (max-width: 640px) {
+
+}
+
+@media screen and (max-width: 570px) {
+
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 420px) {
+
+}
+
+@media screen and (min-width: 990px) {
+
+}

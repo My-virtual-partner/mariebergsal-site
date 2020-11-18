@@ -1,0 +1,148 @@
+.steps {
+    color: #b4b8b9 !important;
+    font-size: 16px;
+
+}
+
+.stepwizard-row {
+    display: table-row;
+}
+
+.grey-border-left {
+    border-left: 1px solid #eee;
+
+}
+
+.stepwizard {
+    display: table;
+    width: 95%;
+    position: relative;
+    margin-top: 1em;
+}
+
+.stepwizard-completed-yes{
+    background-color: #7fd200!important;
+    color: white!important;
+}
+
+.stepwizard-completed-no{
+    background-color: #ff0b00 !important;
+    color: white!important;
+}
+
+.stepwizard a {
+    padding-top: 1em !important;
+    padding-bottom: 1em !important;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+.stepwizard-row:before {
+    top: 14px;
+    bottom: 0;
+    position: absolute;
+    content: " ";
+    width: 100%;
+    height: 1px;
+    background-color: #ccc;
+
+}
+
+.stepwizard-step {
+    display: table-cell;
+    text-align: center;
+    position: relative;
+}
+
+
+.stepwizard-active {
+    background-color: var(--nova) !important;
+    border: 1px solid var(--nova-dark) !important;
+    color: #fff !important;
+
+}
+
+
+input[type=text], input[type=password], input[type=email], input[type=tel], input[type=date], input[type=month], input[type=week], input[type=time], input[type=number], input[type=search], input[type=url], textarea {
+    border: 1px solid #d6d9da !important;
+    background-color: #ffffff !important;
+
+}
+
+.form-control {
+    border: 1px solid #d6d9da !important;
+    background-color: #ffffff !important;
+}
+
+
+/*------------------------------------*\
+           RESPONSIVE DESIGN
+\*------------------------------------*/
+
+@media screen and (min-width: 1921px) {
+
+}
+
+@media screen and (max-width: 1920px) {
+
+}
+
+@media screen and (max-width: 1680px) {
+
+}
+
+@media screen and (min-width: 1024px) {
+
+}
+
+@media screen and (max-width: 1370px) {
+
+}
+
+@media screen and (max-width: 1280px) {
+
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+
+@media screen and (min-width: 991px) {
+
+}
+
+@media screen and (max-width: 960px) {
+
+}
+
+@media screen and (max-width: 800px) {
+
+}
+
+@media screen and (max-width: 770px) {
+
+}
+
+@media screen and (max-width: 740px) {
+
+}
+
+@media screen and (max-width: 640px) {
+
+}
+
+@media screen and (max-width: 570px) {
+
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 420px) {
+
+}
+
+@media screen and (min-width: 990px) {
+
+}
